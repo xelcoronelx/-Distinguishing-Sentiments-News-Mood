@@ -1,0 +1,594 @@
+,network_source,tweet,date,compound_score,pos_score,neu_score,neg_score
+0,BBC News (World),"RT @BBCSport: The draw has been made for the Champions League group stages.
+
+Full details: https://t.co/QBp1aNLZgR https://t.co/FOUTB1IYU0",Thu Aug 30 17:23:46 +0000 2018,0.5267,0.175,0.825,0.0
+1,BBC News (World),"RT @BBCSport: You know how Roma wanted to avoid Real Madrid?
+
+Naturally, they've been drawn into the same group as them.
+
+#UCLDraw LIVE 👉 h…",Thu Aug 30 16:45:56 +0000 2018,-0.296,0.0,0.913,0.087
+2,BBC News (World),"RT @BBCSport: It's almost time for the #UCLDraw 🙌
+
+32 teams - including four from England - await their European opponents.
+
+LIVE 👉 https:/…",Thu Aug 30 16:18:06 +0000 2018,0.1027,0.069,0.931,0.0
+3,BBC News (World),"RT @BBC_HaveYourSay: The Pakistan PM has been making his nine-mile journey to work by helicopter. But how much does it cost?
+
+https://t.co/…",Thu Aug 30 15:52:58 +0000 2018,0.0,0.0,1.0,0.0
+4,BBC News (World),Carl Bernstein: Trump attacks 'degenerate' Watergate reporter https://t.co/EtJ7d3fSMr,Thu Aug 30 15:01:39 +0000 2018,-0.4404,0.0,0.707,0.293
+5,BBC News (World),South Africa violence targets Soweto's foreign-owned shops https://t.co/IcI4Ual33A,Thu Aug 30 14:12:04 +0000 2018,-0.6249,0.0,0.631,0.369
+6,BBC News (World),"Burst dam floods 85 villages in central Myanmar
+
+https://t.co/M2dawdLAN6 https://t.co/nPjbRGyv0y",Thu Aug 30 13:59:27 +0000 2018,0.0,0.0,1.0,0.0
+7,BBC News (World),China officials 'faked water tests with bottled water' https://t.co/8123JNtxRT,Thu Aug 30 13:36:44 +0000 2018,0.0,0.0,1.0,0.0
+8,BBC News (World),Why confidence in Argentina's economy is dwindling https://t.co/FStHUqzn0q,Thu Aug 30 13:09:08 +0000 2018,0.5106,0.32,0.68,0.0
+9,BBC News (World),"Mystery woman, caught on surveillance camera wearing what looked like broken wrist restraints, found safe https://t.co/yErqwp2SDE",Thu Aug 30 12:47:02 +0000 2018,0.3182,0.251,0.605,0.144
+10,BBC News (World),Google disputes Trump's claim that it didn't promote his State of the Union address https://t.co/oeK6UnGldd,Thu Aug 30 12:43:22 +0000 2018,-0.508,0.0,0.752,0.248
+11,BBC News (World),Calls to name Nato headquarters after US Senator John McCain https://t.co/8hyR38sh3x,Thu Aug 30 12:27:02 +0000 2018,0.0,0.0,1.0,0.0
+12,BBC News (World),Dutroux murders: Belgian child-killer's letter angers parents https://t.co/2wMsf3gPhQ,Thu Aug 30 12:22:48 +0000 2018,-0.8074,0.0,0.451,0.549
+13,BBC News (World),Roy Oliver: Ex-police officer jailed for Jordan Edwards shooting https://t.co/HKMr0z6552,Thu Aug 30 12:19:55 +0000 2018,-0.4939,0.0,0.738,0.262
+14,BBC News (World),😲 https://t.co/4Y2uJNEHMN,Thu Aug 30 11:50:22 +0000 2018,0.0,0.0,1.0,0.0
+15,BBC News (World),"RT @BBCAfrica: “What is wrong about sex anyway?”
+
+Although she comes from a traditional family in rural Kenya, 21 year-old Jane speaks free…",Thu Aug 30 10:58:15 +0000 2018,-0.4767,0.0,0.871,0.129
+16,BBC News (World),"Macron: French 'Gauls' resistant to change, unlike 'Lutheran' Danes https://t.co/mHKoM42wzc",Thu Aug 30 10:57:38 +0000 2018,0.0,0.0,1.0,0.0
+17,BBC News (World),"RT @BBCNews: Prince Harry sings King George's line at charity performance of Hamilton 🎤 
+
+https://t.co/57XQEYUUQb https://t.co/eZneRJvfr6",Thu Aug 30 10:51:36 +0000 2018,0.4215,0.167,0.833,0.0
+18,BBC News (World),"RT @BBCMonitoring: Profiles of key militia groups operating in Libya's capital.
+https://t.co/BrERFQ9Fye",Thu Aug 30 10:49:14 +0000 2018,0.0,0.0,1.0,0.0
+19,BBC News (World),"RT @BBCNews: Chequers deal ""delivers on the #Brexit vote"" and is ""good for UK and EU"", Theresa May says while on a trip to Kenya
+
+https://t…",Thu Aug 30 10:37:25 +0000 2018,0.4404,0.108,0.892,0.0
+20,CBS News,"""I'm black, he was white. I'm young, he wasn't so young,"" but Arizona Cardinals star Larry Fitzgerald said his unli… https://t.co/HRmNGwnhWo",Thu Aug 30 17:48:18 +0000 2018,0.0,0.0,1.0,0.0
+21,CBS News,"""To me, John really did reflect our country in its true form,"" says Tommy Espinoza, friend of John McCain.… https://t.co/x00Lr8K09c",Thu Aug 30 17:40:26 +0000 2018,0.7184,0.25,0.75,0.0
+22,CBS News,"Grant Woods, former AZ Attorney General, talks about his first two hours as John McCain's chief of staff: ""It was o… https://t.co/p19EjDe1Jr",Thu Aug 30 17:22:28 +0000 2018,0.3612,0.106,0.894,0.0
+23,CBS News,"This apple has fallen far from the tree — Red Delicious is no longer America's most popular choice, as another kind… https://t.co/k05Gx7i4US",Thu Aug 30 17:09:42 +0000 2018,0.4754,0.238,0.597,0.165
+24,CBS News,SPECIAL REPORT: McCain memorial service begins with the senator's longtime friend Joe Biden set to deliver eulogy… https://t.co/EAXYsblUIF,Thu Aug 30 17:04:20 +0000 2018,0.7672,0.293,0.707,0.0
+25,CBS News,WATCH: Pallbearers carry Senator John McCain's casket into Phoenix church for memorial service… https://t.co/NzE2sP2x7a,Thu Aug 30 16:59:48 +0000 2018,0.0,0.0,1.0,0.0
+26,CBS News,WATCH: Motorcade arrives at Senator John McCain's memorial service at North Phoenix Baptist Church… https://t.co/4vQijxhbFc,Thu Aug 30 16:49:58 +0000 2018,0.0,0.0,1.0,0.0
+27,CBS News,Man charged with making death threats to Boston Globe over series of newspaper editorials condemning President Trum… https://t.co/FfR3Bqigbz,Thu Aug 30 16:34:52 +0000 2018,-0.8176,0.0,0.638,0.362
+28,CBS News,"WATCH LIVE: Family, friends and political leaders are set to remember Senator John McCain at his Arizona memorial s… https://t.co/Ra00OUBnGI",Thu Aug 30 16:27:38 +0000 2018,0.4767,0.14,0.86,0.0
+29,CBS News,"President Trump insists White House is a ""smooth running machine"" in wake of Don McGahn ouster… https://t.co/GYJM6aAkJH",Thu Aug 30 16:20:34 +0000 2018,0.0,0.0,1.0,0.0
+30,CBS News,China says it won't be pressured by the U.S. to move faster on economic reform https://t.co/gNxI8tHyjh https://t.co/fjr95JrO32,Thu Aug 30 16:05:17 +0000 2018,0.1695,0.094,0.906,0.0
+31,CBS News,"American Academy of Pediatrics drops kids' age limit for rear-facing car seats, urging parents to keep them there u… https://t.co/oonmGzJ4Ty",Thu Aug 30 15:50:15 +0000 2018,0.0,0.0,1.0,0.0
+32,CBS News,"Florida sheriff warns ""hotheads"" after ""stand your ground"" shooting involving Uber driver: https://t.co/dRkJbJWq8Q https://t.co/NID0KzdWOj",Thu Aug 30 15:35:09 +0000 2018,-0.1027,0.0,0.903,0.097
+33,CBS News,Russia military boosts naval presence in Mediterranean as U.S. and Vladimir Putin trade warnings Syria offensive… https://t.co/9AC3MaIhy9,Thu Aug 30 15:00:45 +0000 2018,0.0258,0.118,0.769,0.113
+34,CBS News,South Carolina Senator @LindseyGrahamSC offers a rare emotional reflection on the death of his friend John McCain:… https://t.co/A2z4t9nLOG,Thu Aug 30 14:40:20 +0000 2018,-0.0258,0.211,0.617,0.172
+35,CBS News,"Jailed NSA leaker Reality Winner says she ""can't thank [President Trump] enough"" for his tweet calling her sentence… https://t.co/EvltVGtFSb",Thu Aug 30 14:25:20 +0000 2018,-0.1306,0.151,0.637,0.211
+36,CBS News,"A ""minute pressure leak"" has been detected aboard the International Space Station: https://t.co/fL0UUXzzMo https://t.co/VDP8dVfDao",Thu Aug 30 14:09:31 +0000 2018,-0.5423,0.07,0.637,0.293
+37,CBS News,"HAMILTON AND HARRY: While attending a performance of ""Hamilton,"" Prince Harry, who is King George III's great-great… https://t.co/Et86n4RpiE",Thu Aug 30 13:50:09 +0000 2018,0.0,0.0,1.0,0.0
+38,CBS News,A Texas Republican Party tweet recalling Democratic Senate hopeful Beto O'Rourke's past arrests has triggered a par… https://t.co/xybtolMfoD,Thu Aug 30 13:29:46 +0000 2018,0.4767,0.274,0.594,0.132
+39,CBS News,"Lindsey Graham on President Trump's treatment of John McCain: ""It pisses me off to no end, and I let the president… https://t.co/NQOWVzyLAX",Thu Aug 30 13:10:44 +0000 2018,-0.5574,0.0,0.805,0.195
+40,CNN,"RT @CNNPolitics: Tommy Espinoza, friend of the late Sen. John McCain, recalls scrambling to get him a Mariachi band on his birthday: ""I fig…",Thu Aug 30 17:45:31 +0000 2018,0.4939,0.127,0.873,0.0
+41,CNN,"Meet the Arab superhero fighting crime and smashing stereotypes. Emara doesn't wear spandex, skintight leather or m… https://t.co/kSd4xx3lMM",Thu Aug 30 17:44:38 +0000 2018,-0.7184,0.0,0.727,0.273
+42,CNN,"The FDA is warning people about the potential dangers of eating food prepared with liquid nitrogen, saying serious… https://t.co/FX6DyumFzW",Thu Aug 30 17:40:04 +0000 2018,-0.5719,0.081,0.681,0.238
+43,CNN,Google Assistant can now understand two languages at once https://t.co/ziteq83Lhy https://t.co/p3GnODEYp7,Thu Aug 30 17:30:04 +0000 2018,0.0,0.0,1.0,0.0
+44,CNN,"A study called ""The Habitual Diet and Avocado Trial"" will pay participants $300 to eat an avocado every day for six… https://t.co/wm1qFWzaou",Thu Aug 30 17:19:33 +0000 2018,-0.1027,0.0,0.935,0.065
+45,CNN,"A memorial service honoring the life and legacy of Sen. John McCain has begun at a church in Phoenix.
+
+Watch live:… https://t.co/zVFsjlN5zR",Thu Aug 30 17:08:11 +0000 2018,0.5106,0.148,0.852,0.0
+46,CNN,The casket carrying the body of Sen. John McCain is brought into the North Phoenix Baptist Church where a memorial… https://t.co/zlaNZDSSOa,Thu Aug 30 17:03:54 +0000 2018,0.0,0.0,1.0,0.0
+47,CNN,President Trump and his former personal attorney Michael Cohen devised a plan to purchase potentially damaging stor… https://t.co/93msKOHT2A,Thu Aug 30 16:57:08 +0000 2018,-0.5106,0.0,0.829,0.171
+48,CNN,"RT @CNNPolitics: A source close to the Palin family tells CNN: ""Out of respect for Sen. McCain and his family we have nothing to add at thi…",Thu Aug 30 16:47:51 +0000 2018,0.4767,0.11,0.89,0.0
+49,CNN,Starbucks is quietly testing a new Frappuccino that has fewer calories and less sugar https://t.co/3NslwwHiqy https://t.co/zN1Et64Zaa,Thu Aug 30 16:35:24 +0000 2018,0.0,0.0,1.0,0.0
+50,CNN,RT @CNNPolitics: The casket of Sen. John McCain departs the Arizona State Capitol to travel to the North Phoenix Baptist Church for a memor…,Thu Aug 30 16:20:23 +0000 2018,0.0,0.0,1.0,0.0
+51,CNN,"Los Angeles is renaming ""Rodeo Road"" to ""Obama Boulevard"" to honor former President Obama https://t.co/JuELZbc7CU https://t.co/NLpudCDC81",Thu Aug 30 16:20:07 +0000 2018,0.4939,0.176,0.824,0.0
+52,CNN,"Former Alaska Gov. Sarah Palin is not invited to any of the memorial services for her former running mate, Arizona… https://t.co/FIdyX8phOo",Thu Aug 30 16:10:07 +0000 2018,0.0,0.0,1.0,0.0
+53,CNN,PETA wants to erect a roadside memorial for lobsters killed in a car wreck https://t.co/nyKdIyqJ1z https://t.co/qnvlHmRklz,Thu Aug 30 16:00:04 +0000 2018,-0.8126,0.0,0.619,0.381
+54,CNN,"China's top search engine is suing a comedian, demanding damages and a public apology, after he mocked the company… https://t.co/tZo6UDJYU1",Thu Aug 30 15:50:04 +0000 2018,-0.5574,0.217,0.426,0.357
+55,CNN,Jehovah's Witnesses are a tiny minority in South Korea. But they make up the majority of the thousands who have bee… https://t.co/WzWi80Klgd,Thu Aug 30 15:49:35 +0000 2018,0.0,0.0,1.0,0.0
+56,CNN,'Fake meat' is at the center of a food fight in Missouri https://t.co/OEDB0Ks0n8 https://t.co/QmzeEw2UyO,Thu Aug 30 15:40:05 +0000 2018,-0.6908,0.0,0.659,0.341
+57,CNN,"An Uber driver in Florida stood his ground and killed a man who threatened to shoot him, according to the sheriff.… https://t.co/agVyEQ8RnT",Thu Aug 30 15:30:09 +0000 2018,-0.872,0.0,0.645,0.355
+58,CNN,"Roberta McCain, John McCain's 106-year-old mother, is expected to attend the services for her son at the Capitol, t… https://t.co/W0AF0AwBpc",Thu Aug 30 15:25:12 +0000 2018,0.0,0.0,1.0,0.0
+59,CNN,President Trump just keeps claiming things he said on tape aren't real | Analysis by @CillizzaCNN… https://t.co/WwCC92ei5K,Thu Aug 30 15:20:08 +0000 2018,0.0,0.0,1.0,0.0
+60,Fox News,Former Vice President @JoeBiden speaks at a memorial service held for the late Senator McCain at North Phoenix Bapt… https://t.co/Yb9YqnZKKX,Thu Aug 30 17:47:30 +0000 2018,0.0,0.0,1.0,0.0
+61,Fox News,".@LarryFitzgerald remembering Senator John McCain: ""After getting to know  Senator McCain, I felt compelled to visi… https://t.co/nGYo7IjqR1",Thu Aug 30 17:46:15 +0000 2018,0.0516,0.074,0.926,0.0
+62,Fox News,"MS-13 gang member charged after teen's remains found on Long Island, officials say.
+https://t.co/qKuojtaxdj",Thu Aug 30 17:40:25 +0000 2018,-0.2023,0.0,0.878,0.122
+63,Fox News,Aaron Rodgers reportedly NFL’s highest-paid player after signing extension with Packers https://t.co/kdzwDJ6gtx,Thu Aug 30 17:28:10 +0000 2018,0.0,0.0,1.0,0.0
+64,Fox News,"McCain's funeral will be attended by Obama, Bush and others: A list of notable people paying their respects https://t.co/etLM0r0lIW",Thu Aug 30 17:12:46 +0000 2018,-0.0516,0.111,0.769,0.12
+65,Fox News,Senator McCain’s motorcade and family arrive at North Phoenix Baptist Church for memorial service… https://t.co/guniFemptc,Thu Aug 30 17:06:23 +0000 2018,0.0,0.0,1.0,0.0
+66,Fox News,Senator McCain’s motorcade and family arrive at North Phoenix Baptist Church for memorial service… https://t.co/BdExCo3pbd,Thu Aug 30 16:54:45 +0000 2018,0.0,0.0,1.0,0.0
+67,Fox News,A memorial service is held for Senator McCain at North Phoenix Baptist Church. https://t.co/S7CpL5wLDa,Thu Aug 30 16:47:37 +0000 2018,0.0,0.0,1.0,0.0
+68,Fox News,Google refutes Trump's accusation that it snubbed State of the Union https://t.co/9MBi9KLdOW,Thu Aug 30 16:35:00 +0000 2018,-0.6124,0.0,0.667,0.333
+69,Fox News,".@RepLeeZeldin: “What’s important to note is that these military exercises, which take place all throughout the yea… https://t.co/dUVTKOoM1M",Thu Aug 30 16:33:23 +0000 2018,0.2023,0.096,0.904,0.0
+70,Fox News,Senator McCain’s motorcade departs Arizona State Capitol for today’s memorial https://t.co/nAPLsXfkjS https://t.co/STwLX4nb2W,Thu Aug 30 16:24:37 +0000 2018,0.0,0.0,1.0,0.0
+71,Fox News,McCain family gathers at Arizona State Capitol before Senator McCain’s motorcade departs for today’s memorial https://t.co/V3marmshDd,Thu Aug 30 16:18:00 +0000 2018,0.0,0.0,1.0,0.0
+72,Fox News,.@DavidAsmanfox: “It’s a broad-based economic growth that we’re having.” https://t.co/VDnuUlyc8Q @AmericaNewsroom https://t.co/q08uTaO5B7,Thu Aug 30 16:15:14 +0000 2018,0.3818,0.206,0.794,0.0
+73,Fox News,The motorcade carrying the body of Senator John McCain departs the Arizona State Capitol and proceeds to North Phoe… https://t.co/BAYwaDpKkf,Thu Aug 30 16:05:49 +0000 2018,0.0,0.0,1.0,0.0
+74,Fox News,Obscure case could determine whether Robert Mueller's Russia report sees light of day (via @brookefoxnews) https://t.co/YanHXhtIZb,Thu Aug 30 16:05:00 +0000 2018,0.0,0.0,1.0,0.0
+75,Fox News,Security Guard Pardoned on Gun Charge Achieves Dream of Becoming a Cop https://t.co/P5QVupL1yu https://t.co/XeZj3DIrko,Thu Aug 30 16:00:01 +0000 2018,0.4404,0.356,0.508,0.136
+76,Fox News,"Original Charlie's Angel @realjaclynsmith talks to @HarveyLevinTMZ about her family, friendships and experiences in… https://t.co/GjDrfJats3",Thu Aug 30 15:57:38 +0000 2018,0.5994,0.274,0.726,0.0
+77,Fox News,"Democrats call for delay, accuse GOP of withholding past Kavanaugh documents; @pdoocy reports… https://t.co/mY03CDS3GD",Thu Aug 30 15:52:57 +0000 2018,-0.4767,0.0,0.745,0.255
+78,Fox News,DOJ sides with Asian-American students alleging discrimination at Harvard https://t.co/NAXDMNE0tl,Thu Aug 30 15:45:01 +0000 2018,0.0,0.0,1.0,0.0
+79,Fox News,"Winter will be 'teeth-chattering' cold, have plenty of snow, Farmers' Almanac claims https://t.co/vreb5HIHrF",Thu Aug 30 15:30:00 +0000 2018,0.0,0.0,1.0,0.0
+80,The New York Times,The Postal Service blamed “human error” for the release of a Democratic House candidate’s security clearance form —… https://t.co/5J1i0A00OR,Thu Aug 30 17:42:47 +0000 2018,-0.1779,0.112,0.744,0.144
+81,The New York Times,"RT @TimHerrera: Asking for a raise is difficult, uncomfortable and can be packed with hidden subtext. Here’s a guide on exactly how to do i…",Thu Aug 30 17:30:07 +0000 2018,-0.6249,0.0,0.805,0.195
+82,The New York Times,"A fertility doctor admitted to using his sperm on unwitting women. Decades later, his biological children want answ… https://t.co/DquuJCp944",Thu Aug 30 17:15:04 +0000 2018,0.1779,0.144,0.856,0.0
+83,The New York Times,RT @tmagazine: Has this neighborhood in Seoul figured out the secret to slow living? https://t.co/enRMoIJnAB https://t.co/IEzxamCH7I,Thu Aug 30 17:00:10 +0000 2018,0.0,0.0,1.0,0.0
+84,The New York Times,"Orlando has long been a leading tourist destination. Now, it is vying for another distinction: to be a pioneer in w… https://t.co/jeXGBZ1J39",Thu Aug 30 16:45:07 +0000 2018,0.0,0.0,1.0,0.0
+85,The New York Times,A new government proposal in England would ban the sale of energy drinks like Red Bull to children https://t.co/quWEHb0nlD,Thu Aug 30 16:30:07 +0000 2018,0.0,0.198,0.647,0.155
+86,The New York Times,"Students in Ohio were instructed to select 8 passengers from a list of racially, ethnically and religiously diverse… https://t.co/gMtky8BL9n",Thu Aug 30 16:15:10 +0000 2018,0.0,0.0,1.0,0.0
+87,The New York Times,"In Opinion
+
+Contributing opinion writer Roxane Gay writes: ""We spend so little energy thinking about justice for vi… https://t.co/1PHQBrKrsg",Thu Aug 30 16:00:11 +0000 2018,0.6689,0.244,0.756,0.0
+88,The New York Times,"""The only way to exorcise the hatred in your heart is to find some measure of forgiveness — for yourself."" https://t.co/s64uBAvv9k",Thu Aug 30 15:45:06 +0000 2018,-0.4767,0.086,0.741,0.173
+89,The New York Times,"New York City was briefly relabeled as ""Jewtropolis"" on Snapchat and other popular apps on Thursday morning https://t.co/HFIRd00ifm",Thu Aug 30 15:30:05 +0000 2018,0.4215,0.141,0.859,0.0
+90,The New York Times,"Participation in youth football continues to drop, and studies continue to link the sport to brain injury. How much… https://t.co/hXECU6ZDqB",Thu Aug 30 15:15:10 +0000 2018,-0.5994,0.0,0.786,0.214
+91,The New York Times,"RT @NYTSports: Alizé Cornet walked on to the tennis court with her shirt on backward. When she took it off to turn it around, she ignited a…",Thu Aug 30 15:00:10 +0000 2018,0.0,0.0,1.0,0.0
+92,The New York Times,"""I really, really, really, really need to get her to a hospital A.S.A.P,"" he said about his wife. The call-taker to… https://t.co/0FKYzvfjBJ",Thu Aug 30 14:44:01 +0000 2018,0.0,0.0,1.0,0.0
+93,The New York Times,"RT @nytimesworld: Across Australia are scattered 350 Big Things, like the Big Beer Can and the Big Pineapple. They are funny, but some are…",Thu Aug 30 14:30:05 +0000 2018,0.4019,0.144,0.856,0.0
+94,The New York Times,"Paul Taylor brought a lyrical musicality, capacity for joy and wide poetic imagination to modern dance over six dec… https://t.co/m0x3SBichU",Thu Aug 30 14:16:05 +0000 2018,0.5859,0.174,0.826,0.0
+95,The New York Times,Breaking News: Students suing Harvard over affirmative action policies they say discriminate against Asian-American… https://t.co/c3NaiLUhcE,Thu Aug 30 14:06:34 +0000 2018,-0.2732,0.0,0.87,0.13
+96,The New York Times,The EU said that the bloc would be willing to remove all tariffs on cars and other industrial products as part of a… https://t.co/UPfk8HNR1f,Thu Aug 30 14:00:07 +0000 2018,0.0,0.0,1.0,0.0
+97,The New York Times,A coastal town on the South Island of New Zealand may ban cats to protect other species https://t.co/6Se9QudEYF,Thu Aug 30 13:46:01 +0000 2018,-0.25,0.123,0.708,0.17
+98,The New York Times,RT @maggieNYT: Trump and Cohen were discussing buying decades of info about Trump as Trump prepared for a potential electoral loss and retu…,Thu Aug 30 13:30:15 +0000 2018,-0.1027,0.079,0.826,0.095
+99,The New York Times,"Prince Harry sang a line from ""Hamilton"" at the end of a charity performance in London on Wednesday https://t.co/SfR61zcG9W",Thu Aug 30 13:16:00 +0000 2018,0.4215,0.149,0.851,0.0
+100,BBC News (World),"RT @BBCSport: The draw has been made for the Champions League group stages.
+
+Full details: https://t.co/QBp1aNLZgR https://t.co/FOUTB1IYU0",Thu Aug 30 17:23:46 +0000 2018,0.5267,0.175,0.825,0.0
+101,BBC News (World),"RT @BBCSport: You know how Roma wanted to avoid Real Madrid?
+
+Naturally, they've been drawn into the same group as them.
+
+#UCLDraw LIVE 👉 h…",Thu Aug 30 16:45:56 +0000 2018,-0.296,0.0,0.913,0.087
+102,BBC News (World),"RT @BBCSport: It's almost time for the #UCLDraw 🙌
+
+32 teams - including four from England - await their European opponents.
+
+LIVE 👉 https:/…",Thu Aug 30 16:18:06 +0000 2018,0.1027,0.069,0.931,0.0
+103,BBC News (World),"RT @BBC_HaveYourSay: The Pakistan PM has been making his nine-mile journey to work by helicopter. But how much does it cost?
+
+https://t.co/…",Thu Aug 30 15:52:58 +0000 2018,0.0,0.0,1.0,0.0
+104,BBC News (World),Carl Bernstein: Trump attacks 'degenerate' Watergate reporter https://t.co/EtJ7d3fSMr,Thu Aug 30 15:01:39 +0000 2018,-0.4404,0.0,0.707,0.293
+105,BBC News (World),South Africa violence targets Soweto's foreign-owned shops https://t.co/IcI4Ual33A,Thu Aug 30 14:12:04 +0000 2018,-0.6249,0.0,0.631,0.369
+106,BBC News (World),"Burst dam floods 85 villages in central Myanmar
+
+https://t.co/M2dawdLAN6 https://t.co/nPjbRGyv0y",Thu Aug 30 13:59:27 +0000 2018,0.0,0.0,1.0,0.0
+107,BBC News (World),China officials 'faked water tests with bottled water' https://t.co/8123JNtxRT,Thu Aug 30 13:36:44 +0000 2018,0.0,0.0,1.0,0.0
+108,BBC News (World),Why confidence in Argentina's economy is dwindling https://t.co/FStHUqzn0q,Thu Aug 30 13:09:08 +0000 2018,0.5106,0.32,0.68,0.0
+109,BBC News (World),"Mystery woman, caught on surveillance camera wearing what looked like broken wrist restraints, found safe https://t.co/yErqwp2SDE",Thu Aug 30 12:47:02 +0000 2018,0.3182,0.251,0.605,0.144
+110,BBC News (World),Google disputes Trump's claim that it didn't promote his State of the Union address https://t.co/oeK6UnGldd,Thu Aug 30 12:43:22 +0000 2018,-0.508,0.0,0.752,0.248
+111,BBC News (World),Calls to name Nato headquarters after US Senator John McCain https://t.co/8hyR38sh3x,Thu Aug 30 12:27:02 +0000 2018,0.0,0.0,1.0,0.0
+112,BBC News (World),Dutroux murders: Belgian child-killer's letter angers parents https://t.co/2wMsf3gPhQ,Thu Aug 30 12:22:48 +0000 2018,-0.8074,0.0,0.451,0.549
+113,BBC News (World),Roy Oliver: Ex-police officer jailed for Jordan Edwards shooting https://t.co/HKMr0z6552,Thu Aug 30 12:19:55 +0000 2018,-0.4939,0.0,0.738,0.262
+114,BBC News (World),😲 https://t.co/4Y2uJNEHMN,Thu Aug 30 11:50:22 +0000 2018,0.0,0.0,1.0,0.0
+115,BBC News (World),"RT @BBCAfrica: “What is wrong about sex anyway?”
+
+Although she comes from a traditional family in rural Kenya, 21 year-old Jane speaks free…",Thu Aug 30 10:58:15 +0000 2018,-0.4767,0.0,0.871,0.129
+116,BBC News (World),"Macron: French 'Gauls' resistant to change, unlike 'Lutheran' Danes https://t.co/mHKoM42wzc",Thu Aug 30 10:57:38 +0000 2018,0.0,0.0,1.0,0.0
+117,BBC News (World),"RT @BBCNews: Prince Harry sings King George's line at charity performance of Hamilton 🎤 
+
+https://t.co/57XQEYUUQb https://t.co/eZneRJvfr6",Thu Aug 30 10:51:36 +0000 2018,0.4215,0.167,0.833,0.0
+118,BBC News (World),"RT @BBCMonitoring: Profiles of key militia groups operating in Libya's capital.
+https://t.co/BrERFQ9Fye",Thu Aug 30 10:49:14 +0000 2018,0.0,0.0,1.0,0.0
+119,BBC News (World),"RT @BBCNews: Chequers deal ""delivers on the #Brexit vote"" and is ""good for UK and EU"", Theresa May says while on a trip to Kenya
+
+https://t…",Thu Aug 30 10:37:25 +0000 2018,0.4404,0.108,0.892,0.0
+120,CBS News,"""I'm black, he was white. I'm young, he wasn't so young,"" but Arizona Cardinals star Larry Fitzgerald said his unli… https://t.co/HRmNGwnhWo",Thu Aug 30 17:48:18 +0000 2018,0.0,0.0,1.0,0.0
+121,CBS News,"""To me, John really did reflect our country in its true form,"" says Tommy Espinoza, friend of John McCain.… https://t.co/x00Lr8K09c",Thu Aug 30 17:40:26 +0000 2018,0.7184,0.25,0.75,0.0
+122,CBS News,"Grant Woods, former AZ Attorney General, talks about his first two hours as John McCain's chief of staff: ""It was o… https://t.co/p19EjDe1Jr",Thu Aug 30 17:22:28 +0000 2018,0.3612,0.106,0.894,0.0
+123,CBS News,"This apple has fallen far from the tree — Red Delicious is no longer America's most popular choice, as another kind… https://t.co/k05Gx7i4US",Thu Aug 30 17:09:42 +0000 2018,0.4754,0.238,0.597,0.165
+124,CBS News,SPECIAL REPORT: McCain memorial service begins with the senator's longtime friend Joe Biden set to deliver eulogy… https://t.co/EAXYsblUIF,Thu Aug 30 17:04:20 +0000 2018,0.7672,0.293,0.707,0.0
+125,CBS News,WATCH: Pallbearers carry Senator John McCain's casket into Phoenix church for memorial service… https://t.co/NzE2sP2x7a,Thu Aug 30 16:59:48 +0000 2018,0.0,0.0,1.0,0.0
+126,CBS News,WATCH: Motorcade arrives at Senator John McCain's memorial service at North Phoenix Baptist Church… https://t.co/4vQijxhbFc,Thu Aug 30 16:49:58 +0000 2018,0.0,0.0,1.0,0.0
+127,CBS News,Man charged with making death threats to Boston Globe over series of newspaper editorials condemning President Trum… https://t.co/FfR3Bqigbz,Thu Aug 30 16:34:52 +0000 2018,-0.8176,0.0,0.638,0.362
+128,CBS News,"WATCH LIVE: Family, friends and political leaders are set to remember Senator John McCain at his Arizona memorial s… https://t.co/Ra00OUBnGI",Thu Aug 30 16:27:38 +0000 2018,0.4767,0.14,0.86,0.0
+129,CBS News,"President Trump insists White House is a ""smooth running machine"" in wake of Don McGahn ouster… https://t.co/GYJM6aAkJH",Thu Aug 30 16:20:34 +0000 2018,0.0,0.0,1.0,0.0
+130,CBS News,China says it won't be pressured by the U.S. to move faster on economic reform https://t.co/gNxI8tHyjh https://t.co/fjr95JrO32,Thu Aug 30 16:05:17 +0000 2018,0.1695,0.094,0.906,0.0
+131,CBS News,"American Academy of Pediatrics drops kids' age limit for rear-facing car seats, urging parents to keep them there u… https://t.co/oonmGzJ4Ty",Thu Aug 30 15:50:15 +0000 2018,0.0,0.0,1.0,0.0
+132,CBS News,"Florida sheriff warns ""hotheads"" after ""stand your ground"" shooting involving Uber driver: https://t.co/dRkJbJWq8Q https://t.co/NID0KzdWOj",Thu Aug 30 15:35:09 +0000 2018,-0.1027,0.0,0.903,0.097
+133,CBS News,Russia military boosts naval presence in Mediterranean as U.S. and Vladimir Putin trade warnings Syria offensive… https://t.co/9AC3MaIhy9,Thu Aug 30 15:00:45 +0000 2018,0.0258,0.118,0.769,0.113
+134,CBS News,South Carolina Senator @LindseyGrahamSC offers a rare emotional reflection on the death of his friend John McCain:… https://t.co/A2z4t9nLOG,Thu Aug 30 14:40:20 +0000 2018,-0.0258,0.211,0.617,0.172
+135,CBS News,"Jailed NSA leaker Reality Winner says she ""can't thank [President Trump] enough"" for his tweet calling her sentence… https://t.co/EvltVGtFSb",Thu Aug 30 14:25:20 +0000 2018,-0.1306,0.151,0.637,0.211
+136,CBS News,"A ""minute pressure leak"" has been detected aboard the International Space Station: https://t.co/fL0UUXzzMo https://t.co/VDP8dVfDao",Thu Aug 30 14:09:31 +0000 2018,-0.5423,0.07,0.637,0.293
+137,CBS News,"HAMILTON AND HARRY: While attending a performance of ""Hamilton,"" Prince Harry, who is King George III's great-great… https://t.co/Et86n4RpiE",Thu Aug 30 13:50:09 +0000 2018,0.0,0.0,1.0,0.0
+138,CBS News,A Texas Republican Party tweet recalling Democratic Senate hopeful Beto O'Rourke's past arrests has triggered a par… https://t.co/xybtolMfoD,Thu Aug 30 13:29:46 +0000 2018,0.4767,0.274,0.594,0.132
+139,CBS News,"Lindsey Graham on President Trump's treatment of John McCain: ""It pisses me off to no end, and I let the president… https://t.co/NQOWVzyLAX",Thu Aug 30 13:10:44 +0000 2018,-0.5574,0.0,0.805,0.195
+140,CNN,"RT @CNNPolitics: Tommy Espinoza, friend of the late Sen. John McCain, recalls scrambling to get him a Mariachi band on his birthday: ""I fig…",Thu Aug 30 17:45:31 +0000 2018,0.4939,0.127,0.873,0.0
+141,CNN,"Meet the Arab superhero fighting crime and smashing stereotypes. Emara doesn't wear spandex, skintight leather or m… https://t.co/kSd4xx3lMM",Thu Aug 30 17:44:38 +0000 2018,-0.7184,0.0,0.727,0.273
+142,CNN,"The FDA is warning people about the potential dangers of eating food prepared with liquid nitrogen, saying serious… https://t.co/FX6DyumFzW",Thu Aug 30 17:40:04 +0000 2018,-0.5719,0.081,0.681,0.238
+143,CNN,Google Assistant can now understand two languages at once https://t.co/ziteq83Lhy https://t.co/p3GnODEYp7,Thu Aug 30 17:30:04 +0000 2018,0.0,0.0,1.0,0.0
+144,CNN,"A study called ""The Habitual Diet and Avocado Trial"" will pay participants $300 to eat an avocado every day for six… https://t.co/wm1qFWzaou",Thu Aug 30 17:19:33 +0000 2018,-0.1027,0.0,0.935,0.065
+145,CNN,"A memorial service honoring the life and legacy of Sen. John McCain has begun at a church in Phoenix.
+
+Watch live:… https://t.co/zVFsjlN5zR",Thu Aug 30 17:08:11 +0000 2018,0.5106,0.148,0.852,0.0
+146,CNN,The casket carrying the body of Sen. John McCain is brought into the North Phoenix Baptist Church where a memorial… https://t.co/zlaNZDSSOa,Thu Aug 30 17:03:54 +0000 2018,0.0,0.0,1.0,0.0
+147,CNN,President Trump and his former personal attorney Michael Cohen devised a plan to purchase potentially damaging stor… https://t.co/93msKOHT2A,Thu Aug 30 16:57:08 +0000 2018,-0.5106,0.0,0.829,0.171
+148,CNN,"RT @CNNPolitics: A source close to the Palin family tells CNN: ""Out of respect for Sen. McCain and his family we have nothing to add at thi…",Thu Aug 30 16:47:51 +0000 2018,0.4767,0.11,0.89,0.0
+149,CNN,Starbucks is quietly testing a new Frappuccino that has fewer calories and less sugar https://t.co/3NslwwHiqy https://t.co/zN1Et64Zaa,Thu Aug 30 16:35:24 +0000 2018,0.0,0.0,1.0,0.0
+150,CNN,RT @CNNPolitics: The casket of Sen. John McCain departs the Arizona State Capitol to travel to the North Phoenix Baptist Church for a memor…,Thu Aug 30 16:20:23 +0000 2018,0.0,0.0,1.0,0.0
+151,CNN,"Los Angeles is renaming ""Rodeo Road"" to ""Obama Boulevard"" to honor former President Obama https://t.co/JuELZbc7CU https://t.co/NLpudCDC81",Thu Aug 30 16:20:07 +0000 2018,0.4939,0.176,0.824,0.0
+152,CNN,"Former Alaska Gov. Sarah Palin is not invited to any of the memorial services for her former running mate, Arizona… https://t.co/FIdyX8phOo",Thu Aug 30 16:10:07 +0000 2018,0.0,0.0,1.0,0.0
+153,CNN,PETA wants to erect a roadside memorial for lobsters killed in a car wreck https://t.co/nyKdIyqJ1z https://t.co/qnvlHmRklz,Thu Aug 30 16:00:04 +0000 2018,-0.8126,0.0,0.619,0.381
+154,CNN,"China's top search engine is suing a comedian, demanding damages and a public apology, after he mocked the company… https://t.co/tZo6UDJYU1",Thu Aug 30 15:50:04 +0000 2018,-0.5574,0.217,0.426,0.357
+155,CNN,Jehovah's Witnesses are a tiny minority in South Korea. But they make up the majority of the thousands who have bee… https://t.co/WzWi80Klgd,Thu Aug 30 15:49:35 +0000 2018,0.0,0.0,1.0,0.0
+156,CNN,'Fake meat' is at the center of a food fight in Missouri https://t.co/OEDB0Ks0n8 https://t.co/QmzeEw2UyO,Thu Aug 30 15:40:05 +0000 2018,-0.6908,0.0,0.659,0.341
+157,CNN,"An Uber driver in Florida stood his ground and killed a man who threatened to shoot him, according to the sheriff.… https://t.co/agVyEQ8RnT",Thu Aug 30 15:30:09 +0000 2018,-0.872,0.0,0.645,0.355
+158,CNN,"Roberta McCain, John McCain's 106-year-old mother, is expected to attend the services for her son at the Capitol, t… https://t.co/W0AF0AwBpc",Thu Aug 30 15:25:12 +0000 2018,0.0,0.0,1.0,0.0
+159,CNN,President Trump just keeps claiming things he said on tape aren't real | Analysis by @CillizzaCNN… https://t.co/WwCC92ei5K,Thu Aug 30 15:20:08 +0000 2018,0.0,0.0,1.0,0.0
+160,Fox News,Former Vice President @JoeBiden speaks at a memorial service held for the late Senator McCain at North Phoenix Bapt… https://t.co/Yb9YqnZKKX,Thu Aug 30 17:47:30 +0000 2018,0.0,0.0,1.0,0.0
+161,Fox News,".@LarryFitzgerald remembering Senator John McCain: ""After getting to know  Senator McCain, I felt compelled to visi… https://t.co/nGYo7IjqR1",Thu Aug 30 17:46:15 +0000 2018,0.0516,0.074,0.926,0.0
+162,Fox News,"MS-13 gang member charged after teen's remains found on Long Island, officials say.
+https://t.co/qKuojtaxdj",Thu Aug 30 17:40:25 +0000 2018,-0.2023,0.0,0.878,0.122
+163,Fox News,Aaron Rodgers reportedly NFL’s highest-paid player after signing extension with Packers https://t.co/kdzwDJ6gtx,Thu Aug 30 17:28:10 +0000 2018,0.0,0.0,1.0,0.0
+164,Fox News,"McCain's funeral will be attended by Obama, Bush and others: A list of notable people paying their respects https://t.co/etLM0r0lIW",Thu Aug 30 17:12:46 +0000 2018,-0.0516,0.111,0.769,0.12
+165,Fox News,Senator McCain’s motorcade and family arrive at North Phoenix Baptist Church for memorial service… https://t.co/guniFemptc,Thu Aug 30 17:06:23 +0000 2018,0.0,0.0,1.0,0.0
+166,Fox News,Senator McCain’s motorcade and family arrive at North Phoenix Baptist Church for memorial service… https://t.co/BdExCo3pbd,Thu Aug 30 16:54:45 +0000 2018,0.0,0.0,1.0,0.0
+167,Fox News,A memorial service is held for Senator McCain at North Phoenix Baptist Church. https://t.co/S7CpL5wLDa,Thu Aug 30 16:47:37 +0000 2018,0.0,0.0,1.0,0.0
+168,Fox News,Google refutes Trump's accusation that it snubbed State of the Union https://t.co/9MBi9KLdOW,Thu Aug 30 16:35:00 +0000 2018,-0.6124,0.0,0.667,0.333
+169,Fox News,".@RepLeeZeldin: “What’s important to note is that these military exercises, which take place all throughout the yea… https://t.co/dUVTKOoM1M",Thu Aug 30 16:33:23 +0000 2018,0.2023,0.096,0.904,0.0
+170,Fox News,Senator McCain’s motorcade departs Arizona State Capitol for today’s memorial https://t.co/nAPLsXfkjS https://t.co/STwLX4nb2W,Thu Aug 30 16:24:37 +0000 2018,0.0,0.0,1.0,0.0
+171,Fox News,McCain family gathers at Arizona State Capitol before Senator McCain’s motorcade departs for today’s memorial https://t.co/V3marmshDd,Thu Aug 30 16:18:00 +0000 2018,0.0,0.0,1.0,0.0
+172,Fox News,.@DavidAsmanfox: “It’s a broad-based economic growth that we’re having.” https://t.co/VDnuUlyc8Q @AmericaNewsroom https://t.co/q08uTaO5B7,Thu Aug 30 16:15:14 +0000 2018,0.3818,0.206,0.794,0.0
+173,Fox News,The motorcade carrying the body of Senator John McCain departs the Arizona State Capitol and proceeds to North Phoe… https://t.co/BAYwaDpKkf,Thu Aug 30 16:05:49 +0000 2018,0.0,0.0,1.0,0.0
+174,Fox News,Obscure case could determine whether Robert Mueller's Russia report sees light of day (via @brookefoxnews) https://t.co/YanHXhtIZb,Thu Aug 30 16:05:00 +0000 2018,0.0,0.0,1.0,0.0
+175,Fox News,Security Guard Pardoned on Gun Charge Achieves Dream of Becoming a Cop https://t.co/P5QVupL1yu https://t.co/XeZj3DIrko,Thu Aug 30 16:00:01 +0000 2018,0.4404,0.356,0.508,0.136
+176,Fox News,"Original Charlie's Angel @realjaclynsmith talks to @HarveyLevinTMZ about her family, friendships and experiences in… https://t.co/GjDrfJats3",Thu Aug 30 15:57:38 +0000 2018,0.5994,0.274,0.726,0.0
+177,Fox News,"Democrats call for delay, accuse GOP of withholding past Kavanaugh documents; @pdoocy reports… https://t.co/mY03CDS3GD",Thu Aug 30 15:52:57 +0000 2018,-0.4767,0.0,0.745,0.255
+178,Fox News,DOJ sides with Asian-American students alleging discrimination at Harvard https://t.co/NAXDMNE0tl,Thu Aug 30 15:45:01 +0000 2018,0.0,0.0,1.0,0.0
+179,Fox News,"Winter will be 'teeth-chattering' cold, have plenty of snow, Farmers' Almanac claims https://t.co/vreb5HIHrF",Thu Aug 30 15:30:00 +0000 2018,0.0,0.0,1.0,0.0
+180,The New York Times,The Postal Service blamed “human error” for the release of a Democratic House candidate’s security clearance form —… https://t.co/5J1i0A00OR,Thu Aug 30 17:42:47 +0000 2018,-0.1779,0.112,0.744,0.144
+181,The New York Times,"RT @TimHerrera: Asking for a raise is difficult, uncomfortable and can be packed with hidden subtext. Here’s a guide on exactly how to do i…",Thu Aug 30 17:30:07 +0000 2018,-0.6249,0.0,0.805,0.195
+182,The New York Times,"A fertility doctor admitted to using his sperm on unwitting women. Decades later, his biological children want answ… https://t.co/DquuJCp944",Thu Aug 30 17:15:04 +0000 2018,0.1779,0.144,0.856,0.0
+183,The New York Times,RT @tmagazine: Has this neighborhood in Seoul figured out the secret to slow living? https://t.co/enRMoIJnAB https://t.co/IEzxamCH7I,Thu Aug 30 17:00:10 +0000 2018,0.0,0.0,1.0,0.0
+184,The New York Times,"Orlando has long been a leading tourist destination. Now, it is vying for another distinction: to be a pioneer in w… https://t.co/jeXGBZ1J39",Thu Aug 30 16:45:07 +0000 2018,0.0,0.0,1.0,0.0
+185,The New York Times,A new government proposal in England would ban the sale of energy drinks like Red Bull to children https://t.co/quWEHb0nlD,Thu Aug 30 16:30:07 +0000 2018,0.0,0.198,0.647,0.155
+186,The New York Times,"Students in Ohio were instructed to select 8 passengers from a list of racially, ethnically and religiously diverse… https://t.co/gMtky8BL9n",Thu Aug 30 16:15:10 +0000 2018,0.0,0.0,1.0,0.0
+187,The New York Times,"In Opinion
+
+Contributing opinion writer Roxane Gay writes: ""We spend so little energy thinking about justice for vi… https://t.co/1PHQBrKrsg",Thu Aug 30 16:00:11 +0000 2018,0.6689,0.244,0.756,0.0
+188,The New York Times,"""The only way to exorcise the hatred in your heart is to find some measure of forgiveness — for yourself."" https://t.co/s64uBAvv9k",Thu Aug 30 15:45:06 +0000 2018,-0.4767,0.086,0.741,0.173
+189,The New York Times,"New York City was briefly relabeled as ""Jewtropolis"" on Snapchat and other popular apps on Thursday morning https://t.co/HFIRd00ifm",Thu Aug 30 15:30:05 +0000 2018,0.4215,0.141,0.859,0.0
+190,The New York Times,"Participation in youth football continues to drop, and studies continue to link the sport to brain injury. How much… https://t.co/hXECU6ZDqB",Thu Aug 30 15:15:10 +0000 2018,-0.5994,0.0,0.786,0.214
+191,The New York Times,"RT @NYTSports: Alizé Cornet walked on to the tennis court with her shirt on backward. When she took it off to turn it around, she ignited a…",Thu Aug 30 15:00:10 +0000 2018,0.0,0.0,1.0,0.0
+192,The New York Times,"""I really, really, really, really need to get her to a hospital A.S.A.P,"" he said about his wife. The call-taker to… https://t.co/0FKYzvfjBJ",Thu Aug 30 14:44:01 +0000 2018,0.0,0.0,1.0,0.0
+193,The New York Times,"RT @nytimesworld: Across Australia are scattered 350 Big Things, like the Big Beer Can and the Big Pineapple. They are funny, but some are…",Thu Aug 30 14:30:05 +0000 2018,0.4019,0.144,0.856,0.0
+194,The New York Times,"Paul Taylor brought a lyrical musicality, capacity for joy and wide poetic imagination to modern dance over six dec… https://t.co/m0x3SBichU",Thu Aug 30 14:16:05 +0000 2018,0.5859,0.174,0.826,0.0
+195,The New York Times,Breaking News: Students suing Harvard over affirmative action policies they say discriminate against Asian-American… https://t.co/c3NaiLUhcE,Thu Aug 30 14:06:34 +0000 2018,-0.2732,0.0,0.87,0.13
+196,The New York Times,The EU said that the bloc would be willing to remove all tariffs on cars and other industrial products as part of a… https://t.co/UPfk8HNR1f,Thu Aug 30 14:00:07 +0000 2018,0.0,0.0,1.0,0.0
+197,The New York Times,A coastal town on the South Island of New Zealand may ban cats to protect other species https://t.co/6Se9QudEYF,Thu Aug 30 13:46:01 +0000 2018,-0.25,0.123,0.708,0.17
+198,The New York Times,RT @maggieNYT: Trump and Cohen were discussing buying decades of info about Trump as Trump prepared for a potential electoral loss and retu…,Thu Aug 30 13:30:15 +0000 2018,-0.1027,0.079,0.826,0.095
+199,The New York Times,"Prince Harry sang a line from ""Hamilton"" at the end of a charity performance in London on Wednesday https://t.co/SfR61zcG9W",Thu Aug 30 13:16:00 +0000 2018,0.4215,0.149,0.851,0.0
+200,BBC News (World),"RT @BBCNews: ""We see greater opportunities for British businesses in Kenya in the future,"" Theresa May's says while on a trip to the countr…",Thu Aug 30 10:25:21 +0000 2018,0.6249,0.195,0.805,0.0
+201,BBC News (World),"RT @BBCSteveR: Russia’s defence ministry says that from September 1st it will hold military exercises in the Mediterranean, involving 25 sh…",Thu Aug 30 09:54:21 +0000 2018,0.1027,0.065,0.935,0.0
+202,BBC News (World),"RT @BBC_HaveYourSay: Should you deal with work emails on your commute?
+
+We'd love to hear from you.
+
+Get in touch via:
+
+📱WhatsApp +44 7555…",Thu Aug 30 09:38:34 +0000 2018,0.6369,0.154,0.846,0.0
+203,BBC News (World),"RT @BBCSport: Happy #UCLdraw day!
+
+Here's who could be grouped with who - and everything else you need to know ahead of the Champions Leagu…",Thu Aug 30 08:43:38 +0000 2018,0.8122,0.251,0.749,0.0
+204,BBC News (World),"RT @BBCSteveR: Never seen so many happy, smiling pensioners in the Russian papers. The pro-Kremlin press praises Putin’s proposals for rais…",Thu Aug 30 07:57:07 +0000 2018,0.892,0.372,0.628,0.0
+205,BBC News (World),RT @BBCStreeter: The accountancy giant PwC says it’s ditching fixed working hours for new staff. If you could work when you want would you…,Thu Aug 30 07:10:14 +0000 2018,0.0772,0.053,0.947,0.0
+206,BBC News (World),Rohingya crisis: Myanmar leader Suu Kyi 'should have resigned' https://t.co/Z0MUnlBdPL,Thu Aug 30 03:40:32 +0000 2018,-0.7269,0.0,0.567,0.433
+207,BBC News (World),What are the US-South Korea war games? https://t.co/Fe88ZWDtRf,Thu Aug 30 03:07:23 +0000 2018,-0.5994,0.0,0.642,0.358
+208,BBC News (World),Chemnitz protests: Germany to probe leak sparking mob violence https://t.co/QCrqoG7ssb,Thu Aug 30 01:27:36 +0000 2018,-0.8126,0.0,0.455,0.545
+209,BBC News (World),Judge rules Utah woman legally married to deceased partner https://t.co/9zxRSzJ4JS,Thu Aug 30 00:49:12 +0000 2018,0.1027,0.135,0.865,0.0
+210,BBC News (World),From catcalls to murder: What female joggers face on every run https://t.co/gjmRBbjorE,Thu Aug 30 00:18:51 +0000 2018,-0.6908,0.0,0.701,0.299
+211,BBC News (World),Letter from Africa: Should Ghanaian women be limited to three babies? https://t.co/HwG0br8SIp,Wed Aug 29 23:40:16 +0000 2018,-0.2263,0.0,0.853,0.147
+212,BBC News (World),Pope Francis faces twin battle in Church split over sexual abuse https://t.co/ZGO27MlqIe,Wed Aug 29 23:29:13 +0000 2018,-0.7783,0.0,0.595,0.405
+213,BBC News (World),US woman's boyfriend 'cut brakes before deadly crash' https://t.co/seb5eWQkb8,Wed Aug 29 22:02:07 +0000 2018,-0.5859,0.0,0.593,0.407
+214,BBC News (World),Argentina asks IMF to release $50bn loan as crisis worsens https://t.co/lwUGUe84ck,Wed Aug 29 20:24:47 +0000 2018,-0.802,0.0,0.556,0.444
+215,BBC News (World),RT @BBCNewsAsia: Why a village in New Zealand is trying to ban all cats https://t.co/p5E8Nzrbzz,Wed Aug 29 20:16:16 +0000 2018,-0.5574,0.0,0.783,0.217
+216,BBC News (World),Yemen conflict: Coalition rejects UN human rights report https://t.co/ILICgivFBI,Wed Aug 29 19:17:05 +0000 2018,-0.6705,0.0,0.56,0.44
+217,BBC News (World),RT @BBCNews: Reality Check: How does Africa trade with the EU? https://t.co/OawTFARuvR,Wed Aug 29 18:34:18 +0000 2018,0.0,0.0,1.0,0.0
+218,BBC News (World),RT @BBCNorthAmerica: 300 endangered sea turtles found dead off the coast of Mexico https://t.co/qfkTiV2ZcP,Wed Aug 29 18:05:49 +0000 2018,-0.6486,0.0,0.751,0.249
+219,BBC News (World),RT @BBCNorthAmerica: Hunter killed in attack by a polar bear and cub in Canada https://t.co/wiQwJS9WNo,Wed Aug 29 18:05:24 +0000 2018,-0.8225,0.0,0.612,0.388
+220,CBS News,"Jailed NSA leaker Reality Winner thanks President Trump for tweeting that her sentence seemed like a ""so unfair"" do… https://t.co/HBm45GaNU6",Thu Aug 30 12:49:55 +0000 2018,0.3201,0.342,0.424,0.234
+221,CBS News,WATCH: A Texas woman who was caught on home surveillance camera ringing a doorbell in the middle of the night has b… https://t.co/7m318798dg,Thu Aug 30 12:30:13 +0000 2018,0.0,0.0,1.0,0.0
+222,CBS News,"Sen. Lindsey Graham says President Trump's stand on John McCain ""pisses me off to no end"" https://t.co/I8ev1mAxWB https://t.co/OfA0hrBlX4",Thu Aug 30 12:00:01 +0000 2018,-0.5574,0.0,0.777,0.223
+223,CBS News,"RT @CBSThisMorning: WATCH: Former NSA contractor and Air Force linguist Reality Winner tells @CBSThisMorning she ""deeply"" regrets leaking d…",Thu Aug 30 11:53:27 +0000 2018,0.3182,0.163,0.73,0.107
+224,CBS News,"RT @CBSThisMorning: ""You know what I've learned in my time here? Is that you can disagree with someone until you're blue in the face. You c…",Thu Aug 30 11:52:40 +0000 2018,-0.3818,0.0,0.906,0.094
+225,CBS News,RT @CBSThisMorning: Former NSA contractor and Air Force linguist Reality Winner is serving more than five years in prison for leaking a cla…,Thu Aug 30 11:41:43 +0000 2018,0.128,0.14,0.738,0.122
+226,CBS News,"John McCain's 106-year-old mother, Roberta, will attend his Washington memorial services https://t.co/NvU1fh8ycR https://t.co/TZEv8ve6Ws",Thu Aug 30 11:40:19 +0000 2018,0.0,0.0,1.0,0.0
+227,CBS News,RT @CBSThisMorning: What Sen. Graham would tell POTUS: You've got a lot of people you think are treating you unfairly. Fight back. But you'…,Thu Aug 30 11:29:16 +0000 2018,-0.3818,0.0,0.894,0.106
+228,CBS News,"RT @CBSThisMorning: Did you call the president and tell him to bring the flag back down to half-staff? -- @JDickerson
+
+""No, but I called so…",Thu Aug 30 11:29:09 +0000 2018,0.0,0.0,1.0,0.0
+229,CBS News,"RT @CBSThisMorning: ""It bothers me greatly when the president says things about John McCain. It pisses me off to no end and I let the presi…",Thu Aug 30 11:29:03 +0000 2018,-0.6597,0.0,0.775,0.225
+230,CBS News,Cleveland Browns drop linebacker Mychal Kendricks after admits he engaged in insider trading https://t.co/8Qm8LgQh4a https://t.co/Uk8fn2mSeF,Thu Aug 30 11:19:30 +0000 2018,0.4215,0.258,0.632,0.111
+231,CBS News,"RT @CBSThisMorning: If you back in the Senate, could pass some legislation... what would you try and get passed? -- @JDickerson
+
+""Immigrati…",Thu Aug 30 11:19:26 +0000 2018,0.0,0.0,1.0,0.0
+232,CBS News,"Kanye West apologized on a Chicago radio station for calling slavery a ""choice"" https://t.co/uBIg3fX52C https://t.co/d4SKW42Ix3",Thu Aug 30 10:59:43 +0000 2018,-0.5423,0.127,0.608,0.265
+233,CBS News,The debate over workplace temperatures heats up the political stage. @CBSThisMorning will look at the science behin… https://t.co/yn7N5VpGbf,Thu Aug 30 10:51:37 +0000 2018,0.0,0.0,1.0,0.0
+234,CBS News,AHEAD: @CBSThisMorning will talk to former NSA contractor Reality Winner from jail. This is her first TV interview… https://t.co/zerIg3MuFv,Thu Aug 30 10:48:24 +0000 2018,0.5859,0.174,0.826,0.0
+235,CBS News,RT @CBSThisMorning: Here's a preview of what we're working on this morning. https://t.co/FgK5H9leSn,Thu Aug 30 10:41:56 +0000 2018,0.0,0.0,1.0,0.0
+236,CBS News,Family of black Texas teen shot dead by white cop says sentence too short https://t.co/WMkKue5aPi https://t.co/bKHr00wiwI,Thu Aug 30 10:40:03 +0000 2018,-0.6124,0.066,0.714,0.219
+237,CBS News,There could be a record number of women senators after 2018: https://t.co/S6oH0Kr85v https://t.co/u0EtUPaDCV,Thu Aug 30 10:19:58 +0000 2018,0.0772,0.106,0.894,0.0
+238,CBS News,Putin scales back pension reform plan as approval rating dips https://t.co/TFJev02CLy https://t.co/n4kgKMlNGA,Thu Aug 30 10:03:04 +0000 2018,0.4767,0.22,0.78,0.0
+239,CBS News,Astronaut Robb Kulin quits NASA training – a first in 50 years https://t.co/sKgFSS6nTL https://t.co/0o5NNlAzUs,Thu Aug 30 09:48:03 +0000 2018,0.0,0.0,1.0,0.0
+240,CNN,A New Zealand village wants to ban cats to protect native wild animals https://t.co/brKdun8Uwx,Thu Aug 30 15:10:05 +0000 2018,-0.25,0.151,0.64,0.209
+241,CNN,Technology is changing the way we see our doctors. But is that making us better or worse off? https://t.co/CmBFZbQOsd,Thu Aug 30 15:00:08 +0000 2018,-0.0516,0.126,0.739,0.135
+242,CNN,A 35-year-old sergeant first class in the US Army pleaded guilty in federal court to four counts of attempting to p… https://t.co/5w3sdOBJ8o,Thu Aug 30 14:50:03 +0000 2018,-0.4215,0.0,0.877,0.123
+243,CNN,"These are some of the best (and most Instagram-friendly) frozen treats you can get in New York City, from flash fro… https://t.co/bdO2d9GXEg",Thu Aug 30 14:40:00 +0000 2018,0.6369,0.167,0.833,0.0
+244,CNN,"China's top search engine is suing a comedian, demanding damages and a public apology, after he mocked the company… https://t.co/mMMfG6MVTB",Thu Aug 30 14:30:07 +0000 2018,-0.5574,0.217,0.426,0.357
+245,CNN,Republican members of Congress continue to strongly advise that President Trump should not fire Attorney General Je… https://t.co/PJcyr80Sm8,Thu Aug 30 14:20:07 +0000 2018,0.4829,0.205,0.795,0.0
+246,CNN,"The US is denying passports to a growing number of Hispanic Americans in South Texas, the Washington Post reports… https://t.co/RZHaPivpO2",Thu Aug 30 14:10:10 +0000 2018,-0.1027,0.14,0.748,0.112
+247,CNN,The calls for one of the world's most powerful Catholics to resign are increasingly coming from Catholics who play… https://t.co/vwOPldQ9W5,Thu Aug 30 14:10:08 +0000 2018,0.1761,0.132,0.766,0.102
+248,CNN,A 20-year-old Syrian man has been badly beaten in an attack in Germany as the country braced for more anti-migrant… https://t.co/YpNA8HY6ZJ,Thu Aug 30 14:00:12 +0000 2018,-0.8402,0.0,0.654,0.346
+249,CNN,A finger poking through a manhole cover alerted rescuers in Wisconsin to an 11-year-old boy swept away by floodwate… https://t.co/XSpwMwJdUD,Thu Aug 30 13:55:05 +0000 2018,0.0,0.0,1.0,0.0
+250,CNN,"Remember that baby Trump blimp that flew over London? One man, describing himself as a free speech advocate, is now… https://t.co/GQNJq09QpI",Thu Aug 30 13:45:56 +0000 2018,0.5106,0.148,0.852,0.0
+251,CNN,"Here's what's streaming on Netflix, Hulu and Amazon Prime in September https://t.co/ethKl08tOa https://t.co/KDK7KBpseP",Thu Aug 30 13:32:03 +0000 2018,0.1779,0.124,0.876,0.0
+252,CNN,"Ever heard of a mud volcano? They bubble up and can send gas, water, fire and, yes, mud into the air… https://t.co/cIV77KxrMN",Thu Aug 30 13:30:00 +0000 2018,0.0772,0.112,0.788,0.1
+253,CNN,That time Aretha Franklin was the best wedding singer https://t.co/bJw3YglAJX https://t.co/DzPcfh1N0K,Thu Aug 30 13:21:42 +0000 2018,0.6369,0.296,0.704,0.0
+254,CNN,Prince Harry stole the show when he sang one of King George's lines at Hamilton last night https://t.co/J0yCNEEGpE https://t.co/yH0ZFKpH2T,Thu Aug 30 13:10:12 +0000 2018,0.0,0.0,1.0,0.0
+255,CNN,"Today's top business headlines before the opening bell on Wall Street:
+
+- Wall Street rally continues
+
+- US-Canada… https://t.co/Bw4MZc3cCQ",Thu Aug 30 13:02:55 +0000 2018,0.2023,0.101,0.899,0.0
+256,CNN,"""Since he's taken office he's governed like a Republican,"" says New York governor candidate Cynthia Nixon of her op… https://t.co/jQbo77PDz0",Thu Aug 30 12:55:59 +0000 2018,0.3612,0.122,0.878,0.0
+257,CNN,Technology is changing the way we see our doctors. But is that making us better or worse off? https://t.co/bVHrvvfdye,Thu Aug 30 12:42:25 +0000 2018,-0.0516,0.126,0.739,0.135
+258,CNN,Jehovah's Witnesses are a tiny minority in South Korea. But they make up the majority of the thousands who have bee… https://t.co/O5I9CuECyW,Thu Aug 30 12:28:57 +0000 2018,0.0,0.0,1.0,0.0
+259,CNN,Mother of 9-year-old who took his life after she says he was bullied at school: “We have to stop hating each other.… https://t.co/xfsl1OSlcz,Thu Aug 30 12:15:42 +0000 2018,-0.8625,0.0,0.676,0.324
+260,Fox News,British fisherman call on Navy to protect them from aggressive French rivals in 'Scallop Wars' https://t.co/eKjcQXzdfS,Thu Aug 30 15:20:00 +0000 2018,-0.3818,0.125,0.625,0.25
+261,Fox News,Honoring John McCain: @BretBaier and @marthamaccallum are live in Washington D.C. with special coverage of John McC… https://t.co/MChpKXsaza,Thu Aug 30 15:10:00 +0000 2018,0.7184,0.273,0.727,0.0
+262,Fox News,"CNN fires back at Trump, stands by controversial story: ‘CNN does not lie’ https://t.co/N0CWzUHd2E",Thu Aug 30 15:05:00 +0000 2018,-0.2023,0.0,0.878,0.122
+263,Fox News,"Name a Supreme Court justice? More than half of Americans can't, survey says https://t.co/jQMVAN4JnV",Thu Aug 30 15:00:02 +0000 2018,0.7906,0.389,0.611,0.0
+264,Fox News,Convicted leaker Chelsea Manning to be barred from entering Australia https://t.co/XgJg7XPXq2,Thu Aug 30 14:55:00 +0000 2018,0.0,0.0,1.0,0.0
+265,Fox News,"Natalie Wood's screams heard on night she vanished from yacht, witness claims https://t.co/pykBIt0Xo6",Thu Aug 30 14:45:00 +0000 2018,-0.296,0.0,0.845,0.155
+266,Fox News,John McCain's 'spunky' 106-year-old mother to attend his services https://t.co/SyijAGQDfQ,Thu Aug 30 14:30:00 +0000 2018,0.0,0.0,1.0,0.0
+267,Fox News,"Wisconsin couple kept their children in makeshift cages, police say https://t.co/o8oAxhtKWx",Thu Aug 30 14:25:00 +0000 2018,0.0,0.0,1.0,0.0
+268,Fox News,.@kayleighmcenany: “President Trump can mobilize the base and can defy history.” @AmericaNewsroom https://t.co/zke0SC9aDU,Thu Aug 30 14:20:00 +0000 2018,0.0,0.0,1.0,0.0
+269,Fox News,Army arms Bradleys with new weapons to attack enemy helicopters https://t.co/L2JEkkDHuB,Thu Aug 30 14:15:00 +0000 2018,-0.8591,0.0,0.457,0.543
+270,Fox News,John McCain memorial service held in Phoenix today https://t.co/nAPLsWXIVi @AmericaNewsroom https://t.co/pps7PmMoDK,Thu Aug 30 14:03:00 +0000 2018,0.0,0.0,1.0,0.0
+271,Fox News,"Emmett Till's classmate, 'girlfriend' speaks out for first time, says he was 'nice kid with a nice smile' https://t.co/T75xflUAtu",Thu Aug 30 14:00:03 +0000 2018,0.7964,0.351,0.649,0.0
+272,Fox News,Security Guard Pardoned on Gun Charge Achieves Dream of Becoming a Cop https://t.co/WKljKctVXX,Thu Aug 30 13:55:00 +0000 2018,0.4404,0.377,0.479,0.144
+273,Fox News,Pastor's wife posts online tribute after loss of 'amazing husband' https://t.co/kHRcWZguVI,Thu Aug 30 13:45:00 +0000 2018,0.3612,0.252,0.596,0.152
+274,Fox News,Parents of baby misdiagnosed with terminal brain condition in utero left fate 'in God's hands' @foxandfriends… https://t.co/NyxM4iFdXT,Thu Aug 30 13:36:55 +0000 2018,0.0,0.0,1.0,0.0
+275,Fox News,"RT @FoxBusiness: US consumer spending increases strongly; inflation rising
+https://t.co/cgtpYrCwU7",Thu Aug 30 13:31:37 +0000 2018,0.2732,0.189,0.811,0.0
+276,Fox News,"RT @FoxBusiness: US weekly jobless claims rise, labor market still tightening
+https://t.co/k0qHGsiWma",Thu Aug 30 13:31:31 +0000 2018,0.0,0.0,1.0,0.0
+277,Fox News,3 ‘extremist Muslim’ New Mexico compound suspects released after judge drops all charges https://t.co/Cz1jZWnriL,Thu Aug 30 13:30:00 +0000 2018,-0.5423,0.0,0.71,0.29
+278,Fox News,'It's Disgusting': Homan Slams Cuomo for Calling ICE a 'Bunch of Thugs' https://t.co/8m0DebKadE,Thu Aug 30 13:25:00 +0000 2018,0.0,0.0,1.0,0.0
+279,Fox News,North Carolina UPS driver's 3-word failed delivery note becomes viral hit https://t.co/DxNKiLOSUg,Thu Aug 30 13:15:00 +0000 2018,-0.5106,0.0,0.769,0.231
+280,The New York Times,Morning Briefing: Here's what you need to know to start your day https://t.co/wrhMpMiH3X https://t.co/0FYaTgtiia,Thu Aug 30 13:00:16 +0000 2018,0.0,0.0,1.0,0.0
+281,The New York Times,"The disapproval for Andrew Cuomo at a debate watch party in Brooklyn was so loud, and so ready, that the crowd bare… https://t.co/HEqs8Il87B",Thu Aug 30 12:46:03 +0000 2018,0.7133,0.229,0.771,0.0
+282,The New York Times,How John McCain spent 8 months planning the week after he would die https://t.co/go2e6EGviS,Thu Aug 30 12:30:05 +0000 2018,-0.5994,0.0,0.755,0.245
+283,The New York Times,President Trump on Wednesday accused China of undermining the American-led pressure campaign against North Korea. C… https://t.co/jlaflmX7Ni,Thu Aug 30 12:14:04 +0000 2018,-0.7096,0.0,0.67,0.33
+284,The New York Times,"When public school students in Detroit return to their classrooms next week, the water fountains will be dry https://t.co/CzMwzP8Scy",Thu Aug 30 12:00:02 +0000 2018,0.0,0.0,1.0,0.0
+285,The New York Times,Karen Monahan's allegations against Representative Keith Ellison are turning into a test among many liberals for wh… https://t.co/24d7L2YMhg,Thu Aug 30 11:50:08 +0000 2018,0.0,0.0,1.0,0.0
+286,The New York Times,"RT @cliffordlevy: NYT scoop:
+Before the 2016 election, Trump devised a plan to buy up decades of dirt that the National Enquirer had collec…",Thu Aug 30 11:40:06 +0000 2018,-0.2023,0.064,0.84,0.096
+287,The New York Times,Missed the Cuomo-Nixon debate? Here are six takeaways. https://t.co/EkxP93heiH,Thu Aug 30 11:30:07 +0000 2018,-0.296,0.0,0.784,0.216
+288,The New York Times,The Florida governor’s race was supposed to come down to a predictable face-off between the establishment Republica… https://t.co/hzhNXp6pIx,Thu Aug 30 11:15:05 +0000 2018,0.0,0.0,1.0,0.0
+289,The New York Times,President Trump and Michael Cohen devised a plan to buy up all the dirt on Trump that the National Enquirer had col… https://t.co/6lanuNUVyV,Thu Aug 30 10:59:02 +0000 2018,-0.34,0.0,0.897,0.103
+290,The New York Times,"""I turned in materials that may contribute to an honest investigation,"" said Rain Dove, the gender-nonconforming mo… https://t.co/BPZdEuz6Jw",Thu Aug 30 10:44:01 +0000 2018,0.5106,0.163,0.837,0.0
+291,The New York Times,"RT @tariqpanja: A peak inside the Wild West world of the international football transfer market: At Transfer Time in Lithuania, Prospects a…",Thu Aug 30 10:30:02 +0000 2018,0.296,0.099,0.901,0.0
+292,The New York Times,"The husband of Nazanin Zaghari-Ratcliffe said her return to prison had been so agonizing that ""in some ways she wis… https://t.co/tlbioMr3uU",Thu Aug 30 10:14:02 +0000 2018,-0.8419,0.0,0.703,0.297
+293,The New York Times,Morning Briefing: Here's what you need to know to start your day https://t.co/1pPAF205kI https://t.co/AkquE9tFvh,Thu Aug 30 10:00:06 +0000 2018,0.0,0.0,1.0,0.0
+294,The New York Times,"Vladimir Putin took the rare step of softening a government decision in the face of public pressure, diluting some… https://t.co/roMp9HMVHv",Thu Aug 30 09:44:07 +0000 2018,-0.296,0.0,0.891,0.109
+295,The New York Times,"Rudy Giuliani, President Trump's personal lawyer, sent a letter to Romania's president criticizing the country's an… https://t.co/nhnJ8wTUmG",Thu Aug 30 09:30:06 +0000 2018,-0.3612,0.0,0.857,0.143
+296,The New York Times,"""In a country as rich as Scotland, it's unacceptable that anyone should struggle to buy basic sanitary products,"" s… https://t.co/sFgSiMXY79",Thu Aug 30 09:16:04 +0000 2018,-0.1779,0.145,0.643,0.213
+297,The New York Times,"When Mohamed Salah is on the offensive, you better watch out. But this week he turned his devastating focus on a ne… https://t.co/HTXOiNKWv1",Thu Aug 30 09:00:13 +0000 2018,-0.6597,0.099,0.651,0.25
+298,The New York Times,"As awkward as the conversation can be, making more money often means asking for more money https://t.co/P7zj4lZihf",Thu Aug 30 08:45:04 +0000 2018,-0.1531,0.0,0.909,0.091
+299,The New York Times,The prognosis for British and American prisoners incarcerated in Iran is bleak. A look at some of the cases. https://t.co/lTHelTTNHt,Thu Aug 30 08:30:13 +0000 2018,-0.5106,0.0,0.845,0.155
+300,BBC News (World),RT @BBCNorthAmerica: Los Angeles 'dine-and-dash' dater faces possible jail time https://t.co/nLdgI3NobU,Wed Aug 29 18:05:19 +0000 2018,0.0,0.0,1.0,0.0
+301,BBC News (World),Don McGahn: Trump says White House counsel to depart https://t.co/icoPvuzVhl,Wed Aug 29 16:53:56 +0000 2018,0.0,0.0,1.0,0.0
+302,BBC News (World),Hurricane Maria: Puerto Rico mayor derides Trump actions https://t.co/BWGaKO4P28,Wed Aug 29 16:25:08 +0000 2018,-0.25,0.0,0.8,0.2
+303,BBC News (World),Russia's Putin embraces higher pension age but softens blow https://t.co/R08WhmVQU1,Wed Aug 29 16:22:07 +0000 2018,0.0,0.0,1.0,0.0
+304,BBC News (World),UN condemns Nicaragua government 'repression and torture' https://t.co/gi9vop44Ev,Wed Aug 29 15:35:19 +0000 2018,-0.8689,0.0,0.338,0.662
+305,BBC News (World),Why Australia's PM is 'keeping enemies close' in government reboot https://t.co/w1lIY76sqb,Wed Aug 29 15:00:25 +0000 2018,-0.4939,0.0,0.758,0.242
+306,BBC News (World),Scallop wars: Could Brexit calm troubled waters? https://t.co/fyH8rG072r,Wed Aug 29 14:54:41 +0000 2018,-0.6486,0.165,0.36,0.475
+307,BBC News (World),Wiesbaden in Germany removes gold statue of Turkey's President Erdogan https://t.co/6UnBnmaSuG,Wed Aug 29 14:21:20 +0000 2018,0.0,0.0,1.0,0.0
+308,BBC News (World),"RT @VictoriaLIVE: My 9-year-old son killed himself after enduring “homophobic bullying” at school.
+Leia Rochelle Pierce from Denver, Colora…",Wed Aug 29 13:56:47 +0000 2018,-0.6705,0.0,0.8,0.2
+309,BBC News (World),"RT @BBCSport: Germany manager Joachim Low has said Mesut Ozil's claims of racism within the national team are ""exaggerated"".
+
+Read: https:/…",Wed Aug 29 13:50:22 +0000 2018,-0.7351,0.0,0.754,0.246
+310,BBC News (World),"Un-bee-lievable scenes 
+
+🐝 🐝 🐝 🐝 🐝🐝🐝🐝🐝🐝🐝🐝🐝🐝🐝🐝🐝🐝🐝🐝🐝🐝🐝🐝🐝🐝🐝🐝🐝🐝🐝🐝🐝🐝🐝🐝🐝🐝🐝🐝🐝🐝🐝🐝🐝🐝🐝🐝🐝🐝🐝🐝🐝🐝🐝🐝
+
+Tap video to expand https://t.co/R26dDFT6mK",Wed Aug 29 13:48:07 +0000 2018,0.3182,0.247,0.753,0.0
+311,BBC News (World),'Scallop row': French police pledge more boats to keep peace https://t.co/XXPuBd7369,Wed Aug 29 13:31:50 +0000 2018,0.5423,0.259,0.741,0.0
+312,BBC News (World),Germany returns skulls of Namibian genocide victims https://t.co/vj8N36M6Kt,Wed Aug 29 13:30:53 +0000 2018,-0.3182,0.0,0.753,0.247
+313,BBC News (World),Read this and weep 😭📚 https://t.co/eN85nSWNJZ,Wed Aug 29 13:22:05 +0000 2018,-0.5719,0.0,0.575,0.425
+314,BBC News (World),Irish presidential election: Seán Gallagher to enter race https://t.co/XhejHSmDqa,Wed Aug 29 12:58:04 +0000 2018,0.0,0.0,1.0,0.0
+315,BBC News (World),Two Irish police officers are injured after horse collides with car https://t.co/EvWW2NOfcK,Wed Aug 29 12:38:05 +0000 2018,-0.5859,0.0,0.676,0.324
+316,BBC News (World),"RT @BBCNews: Sofia Sanchez had two wishes for her birthday - one was to meet Drake, the other was this ❤️️ https://t.co/Vc7NzN0v0H",Wed Aug 29 12:28:53 +0000 2018,0.1531,0.074,0.926,0.0
+317,BBC News (World),"One comic fan was so annoyed by the tight costume worn by @Marvel superhero Dust, she redesigned the hijab hero's a… https://t.co/zSmXyLWXAU",Wed Aug 29 11:37:59 +0000 2018,-0.4201,0.087,0.72,0.193
+318,BBC News (World),"""I want my son to know he made a change for the better"": 9-year-old Jamel Myles killed himself after homophobic bul… https://t.co/UcdvAMuyaq",Wed Aug 29 11:02:12 +0000 2018,-0.6369,0.052,0.766,0.181
+319,BBC News (World),300 endangered olive ridley sea turtles found dead off coast of Mexico https://t.co/Rnbvs8YGwe,Wed Aug 29 10:44:53 +0000 2018,-0.6486,0.0,0.736,0.264
+320,CBS News,"Lindsey Graham faults Jeff Sessions for ""zero-tolerance"" policy https://t.co/2Mpa95kVNU https://t.co/yWoAsX1AHz",Thu Aug 30 09:33:04 +0000 2018,-0.4767,0.0,0.744,0.256
+321,CBS News,"Kanye West apologizes for saying slavery was ""a choice"" https://t.co/6Q5e7w8pvp https://t.co/J8krNHXDfd",Thu Aug 30 09:24:06 +0000 2018,-0.5106,0.153,0.552,0.294
+322,CBS News,Remains found in fish tank at home of missing man in San Francisco https://t.co/OBe6DliEbg https://t.co/5U5T9AXPGw,Thu Aug 30 09:18:03 +0000 2018,-0.296,0.0,0.864,0.136
+323,CBS News,Home of banker connected to Paul Manafort burglarized https://t.co/73O5OqkMBB https://t.co/qCaKFWsiKk,Thu Aug 30 09:03:03 +0000 2018,0.0,0.0,1.0,0.0
+324,CBS News,Video shows cop-suspect trackside scuffle before train kills man https://t.co/J354wYOOgN https://t.co/BCX0NI3vgz,Thu Aug 30 08:54:05 +0000 2018,-0.5423,0.0,0.741,0.259
+325,CBS News,"2 workers die in 6-story fall near Disney World; 3rd hangs on, survives https://t.co/EhpOmhxnGz https://t.co/IFAfSgilFZ",Thu Aug 30 08:48:04 +0000 2018,-0.5994,0.0,0.769,0.231
+326,CBS News,"Remembering the violent Chicago summer of 1968, 50 years later https://t.co/cW8MCg3nSV https://t.co/DCCe1NsvJ7",Thu Aug 30 08:33:03 +0000 2018,-0.5994,0.0,0.738,0.262
+327,CBS News,Los Angeles to rename Rodeo Road after former President Barack Obama https://t.co/KfUZn0oIFp https://t.co/FMPoP8T19F,Thu Aug 30 08:18:04 +0000 2018,0.0,0.0,1.0,0.0
+328,CBS News,Eddie Murphy to become a father for 10th time https://t.co/SQTmUSXqGK https://t.co/nmkODtskdR,Thu Aug 30 08:03:03 +0000 2018,0.0,0.0,1.0,0.0
+329,CBS News,Guatemalan mom to sue U.S. after baby treated at ICE facility dies weeks later https://t.co/XPt9DOnra3 https://t.co/3g1rV2xbcw,Thu Aug 30 07:48:02 +0000 2018,0.0,0.0,1.0,0.0
+330,CBS News,"If you're going to track your teen's location, here's how to approach it https://t.co/pRB2ucNh02 https://t.co/5mRb5TlDOj",Thu Aug 30 07:33:03 +0000 2018,0.0,0.0,1.0,0.0
+331,CBS News,U.S. Open accused of sexism after Alizé Cornet penalized for taking off her shirt while male players sit shirtless… https://t.co/Nx2b81Usfh,Thu Aug 30 07:18:04 +0000 2018,-0.296,0.0,0.896,0.104
+332,CBS News,Officials detonate unexploded mine floating in Puget Sound https://t.co/8wV0duKcK0,Thu Aug 30 07:03:03 +0000 2018,0.0,0.0,1.0,0.0
+333,CBS News,"Elon Musk repeats ""pedophile"" accusations against man who's getting ready to sue him https://t.co/zNio0uQJjx https://t.co/lUKY1ImdTY",Thu Aug 30 06:48:03 +0000 2018,0.0516,0.14,0.73,0.129
+334,CBS News,"Andrew Gillum celebrates ""incredible feat"" of clinching Democratic nomination for Florida governor… https://t.co/gFsEJ853V7",Thu Aug 30 06:33:03 +0000 2018,0.5719,0.236,0.764,0.0
+335,CBS News,John McCain's Vietnam cellmate describes reaction to candidate Trump's POW comments https://t.co/6HM0rDEQ2H https://t.co/gSagtUVGqx,Thu Aug 30 06:18:03 +0000 2018,0.0,0.0,1.0,0.0
+336,CBS News,Professor charged after wife's body found in suitcase in office https://t.co/Z92LlMZMKe https://t.co/Q4YNRFAy7V,Thu Aug 30 06:03:04 +0000 2018,-0.2023,0.0,0.859,0.141
+337,CBS News,"Amazon calls out Bernie Sanders for ""misleading accusations"" https://t.co/l8wB3X130Q https://t.co/5ODI5Y1pps",Thu Aug 30 05:48:03 +0000 2018,-0.5106,0.124,0.511,0.365
+338,CBS News,Trump overstates his job performance ratings: Fact Check https://t.co/L342SQJ9IM https://t.co/KJLe3H6Dyl,Thu Aug 30 05:33:03 +0000 2018,0.0,0.0,1.0,0.0
+339,CBS News,"No evidence Clinton server was compromised, FBI says https://t.co/5ACloWlwNN https://t.co/wT3rsSGGkq",Thu Aug 30 05:18:03 +0000 2018,-0.296,0.0,0.804,0.196
+340,CNN,"RT @NewDay: ""He went up and told his sister that the other kids told him to kill himself,"" says Leia Pierce, the mother of a 9-year-old boy…",Thu Aug 30 12:13:30 +0000 2018,-0.6908,0.0,0.842,0.158
+341,CNN,A New Zealand village wants to ban cats to protect native wild animals https://t.co/cejMXOTMbt,Thu Aug 30 11:58:15 +0000 2018,-0.25,0.151,0.64,0.209
+342,CNN,A 35-year-old sergeant first class in the US Army pleaded guilty in federal court to four counts of attempting to p… https://t.co/Wgp6cJ83Zs,Thu Aug 30 11:40:06 +0000 2018,-0.4215,0.0,0.877,0.123
+343,CNN,A Connecticut man was sentenced to eight months in prison Wednesday for his role in a phishing scheme that exposed… https://t.co/Efq8xOIcpF,Thu Aug 30 11:35:05 +0000 2018,-0.5267,0.0,0.794,0.206
+344,CNN,'Fake meat' is at the center of a food fight in Missouri https://t.co/IGeUi7vkQn https://t.co/H5x6fjBVJK,Thu Aug 30 11:30:03 +0000 2018,-0.6908,0.0,0.659,0.341
+345,CNN,"Nearly a quarter of 14-year-old girls in the UK have self-harmed, with many facing overwhelming pressures over look… https://t.co/1mxPiZ7CUi",Thu Aug 30 11:25:31 +0000 2018,-0.3182,0.0,0.881,0.119
+346,CNN,"RT @NewDay: Anthony Scaramucci on the White House's response to the death of Sen. John McCain: ""I'm not surprised by it, but I'm disappoint…",Thu Aug 30 11:18:58 +0000 2018,-0.4182,0.0,0.853,0.147
+347,CNN,"5 things for Thursday:
+
+- White House
+- Syria
+- Duck boat tragedy
+- China
+- Uber
+
+https://t.co/LRT087nX0b https://t.co/jhWnz22R3W",Thu Aug 30 11:00:19 +0000 2018,-0.6597,0.0,0.732,0.268
+348,CNN,"An Uber driver in Florida stood his ground and killed a man who threatened to shoot him, according to the sheriff.… https://t.co/QCpa5ODwU9",Thu Aug 30 10:50:14 +0000 2018,-0.872,0.0,0.645,0.355
+349,CNN,"Who is Richard Russell, whose Senate building may be renamed after John McCain? | Analysis by @CillizzaCNN… https://t.co/uZd1HlMqWE",Thu Aug 30 10:37:56 +0000 2018,0.0,0.0,1.0,0.0
+350,CNN,Home surveillance cameras are helping police crack down on crimes https://t.co/lIeZslJFxW https://t.co/YFXKnJPSuV,Thu Aug 30 10:23:26 +0000 2018,0.296,0.167,0.833,0.0
+351,CNN,A New Zealand village wants to ban cats to protect native wild animals https://t.co/DDUC904GgE,Thu Aug 30 10:08:07 +0000 2018,-0.25,0.151,0.64,0.209
+352,CNN,The key to justice for the Rohingya could be their mobile phones -- many of which contain footage that could serve… https://t.co/T8XyI14CAk,Thu Aug 30 09:48:41 +0000 2018,0.5267,0.139,0.861,0.0
+353,CNN,Prince Harry burst into song at a performance of Hamilton last night https://t.co/J0yCNEEGpE https://t.co/IRMRfNr8KN,Thu Aug 30 09:47:00 +0000 2018,0.0,0.0,1.0,0.0
+354,CNN,Putin's popularity in Russia is not bulletproof | Analysis by @nohodge in Moscow https://t.co/O2kxu9Zwux https://t.co/x82FsxDpWK,Thu Aug 30 09:37:24 +0000 2018,0.4767,0.193,0.807,0.0
+355,CNN,Prince Harry stole the show at hit musical Hamilton as he burst into song https://t.co/KQxf9NQssT https://t.co/wE25PmerY2,Thu Aug 30 09:26:18 +0000 2018,0.0,0.0,1.0,0.0
+356,CNN,"President Bashar al-Assad once dismissed leaked photographs of thousands of dead inmates as ""fake."" Now Syria is re… https://t.co/KHpqNq3CCK",Thu Aug 30 09:20:04 +0000 2018,-0.765,0.0,0.72,0.28
+357,CNN,"RT @cnni: Korean pop group BTS beat Taylor Swift's record for biggest YouTube debut with the music video for its song ""Idol"" https://t.co/i…",Thu Aug 30 09:14:36 +0000 2018,0.0,0.0,1.0,0.0
+358,CNN,The calls for one of the world's most powerful Catholics to resign are increasingly coming from Catholics who play… https://t.co/COqd80CK51,Thu Aug 30 09:10:43 +0000 2018,0.1761,0.132,0.766,0.102
+359,CNN,"NATO should rename its headquarters after John McCain, a man who who understood that the United States does not --… https://t.co/Z8GkeFeVQY",Thu Aug 30 08:59:42 +0000 2018,0.4215,0.128,0.872,0.0
+360,Fox News,"Andrew Cuomo, Cynthia Nixon accuse each other of lying, corruption in heated primary debate https://t.co/jfDzafmKLL",Thu Aug 30 13:00:01 +0000 2018,-0.6369,0.0,0.714,0.286
+361,Fox News,.@michellemalkin: “ICE agents are patriots. They put their lives on the line for us every single day across this co… https://t.co/mP5MTZ8IZR,Thu Aug 30 12:52:00 +0000 2018,0.0,0.0,1.0,0.0
+362,Fox News,"Neil Young, Daryl Hannah marry in top-secret wedding https://t.co/Jb9B6VSsv4",Thu Aug 30 12:45:00 +0000 2018,0.0,0.0,1.0,0.0
+363,Fox News,PETA wants Maine officials to build gravestone in memory of lobsters who died in truck crash https://t.co/OcDeFyoM9q,Thu Aug 30 12:40:00 +0000 2018,-0.7906,0.0,0.636,0.364
+364,Fox News,RT @FoxBusiness: 2Q GDP second reading: https://t.co/fYWAwpx7gl,Thu Aug 30 12:38:17 +0000 2018,0.0,0.0,1.0,0.0
+365,Fox News,RT @FoxBusiness: Memory chip maker Micron announces $3B expansion in Virginia https://t.co/aALGLx6LSQ https://t.co/40OomtXjhx,Thu Aug 30 12:30:02 +0000 2018,0.0,0.0,1.0,0.0
+366,Fox News,Marines 3D-print concrete barracks in just 40 hours https://t.co/eUoYV7wVgZ,Thu Aug 30 12:30:00 +0000 2018,0.0,0.0,1.0,0.0
+367,Fox News,"Albert Cabreira, a 50-year-old school teacher, salutes outside the Arizona Capitol Museum where the body of Sen. Jo… https://t.co/ftqi0Yj8at",Thu Aug 30 12:12:44 +0000 2018,0.0,0.0,1.0,0.0
+368,Fox News,John McCain's funeral events: Everything you need to know https://t.co/nAPLsXfkjS https://t.co/v22EsM1Z6j,Thu Aug 30 12:05:00 +0000 2018,-0.3612,0.0,0.8,0.2
+369,Fox News,Tom Homan: “There’s no true border security without interior enforcement.” @foxandfriends https://t.co/EyD5a3WwYG,Thu Aug 30 12:00:01 +0000 2018,0.4588,0.317,0.549,0.134
+370,Fox News,"RT @FoxBusiness: Gas prices to drop this fall, here’s how much
+https://t.co/NC5mWSzhsX",Thu Aug 30 11:59:20 +0000 2018,-0.2732,0.0,0.84,0.16
+371,Fox News,OPINION: Rep. Marshall: Ocasio-Cortez’s message should be welcomed by the GOP for these reasons https://t.co/f3ibMbaTuX,Thu Aug 30 11:45:00 +0000 2018,0.34,0.146,0.854,0.0
+372,Fox News,Pardoned security guard becomes Maryland deputy @foxandfriends https://t.co/jRoqxq7Bb1,Thu Aug 30 11:39:29 +0000 2018,0.5106,0.417,0.583,0.0
+373,Fox News,.@USArmy robot can get itself up after it falls down https://t.co/FtUIfpJN1z,Thu Aug 30 11:30:00 +0000 2018,0.0,0.0,1.0,0.0
+374,Fox News,California Senate votes to raise age for buying long guns to 21 https://t.co/e1VIDzaVEg @FoxFriendsFirst https://t.co/soSKOn3yNr,Thu Aug 30 11:25:00 +0000 2018,0.0,0.0,1.0,0.0
+375,Fox News,.@US_FDA aiming to lower drug costs; @Garrett_FoxNews reports @FoxFriendsFirst https://t.co/uT2jPIkVw6,Thu Aug 30 11:15:00 +0000 2018,-0.296,0.0,0.804,0.196
+376,Fox News,"Gun control steps hurt Dick's Sporting sales, shares slip https://t.co/7Lib50Vucl (via @FoxBusiness) https://t.co/DhzEXrdXYu",Thu Aug 30 11:10:00 +0000 2018,-0.5574,0.122,0.556,0.322
+377,Fox News,"OPINION: @newtgingrich: Trump keeps racking up the victories, despite liberal media's desperate efforts https://t.co/GY3y7gZ3EP",Thu Aug 30 11:05:00 +0000 2018,0.2411,0.131,0.869,0.0
+378,Fox News,Philadelphia Wendy’s drive-thru worker attacked by wrench-wielding man in Batman shirt https://t.co/pa22zuPDqm,Thu Aug 30 10:50:00 +0000 2018,-0.4588,0.0,0.786,0.214
+379,Fox News,John McCain's funeral events: Everything you need to know https://t.co/oNg0zxhG9U,Thu Aug 30 10:45:00 +0000 2018,-0.3612,0.0,0.783,0.217
+380,The New York Times,The USTA had issued a new statement regarding changing clothes. “All players can change their shirts when sitting i… https://t.co/mlPJtylqbx,Thu Aug 30 08:15:03 +0000 2018,0.0,0.0,1.0,0.0
+381,The New York Times,Fear not — there are books and consultants to help you figure out if you even want a child https://t.co/f2UcmAN09f,Thu Aug 30 08:00:10 +0000 2018,-0.0516,0.18,0.676,0.144
+382,The New York Times,"French fishermen tossed what appeared to be smoke bombs at their rivals, and the British called on the Royal Navy f… https://t.co/FbCsfboJOr",Thu Aug 30 07:45:05 +0000 2018,0.0,0.0,1.0,0.0
+383,The New York Times,The riverfront beach was supposed to be a summertime gift but has become yet another lightning rod for Romans to ve… https://t.co/y0y5RHG56k,Thu Aug 30 07:30:06 +0000 2018,0.2382,0.089,0.911,0.0
+384,The New York Times,"President Trump said China was shipping “money, fuel,  fertilizer and various other commodities” to North Korea. “T… https://t.co/uI1SfyQsw7",Thu Aug 30 07:15:07 +0000 2018,0.0,0.0,1.0,0.0
+385,The New York Times,John McCain will be honored in a series of memorial services this week. Here are vignettes of the ceremony and sent… https://t.co/vELf6JmtHx,Thu Aug 30 07:00:14 +0000 2018,0.5859,0.16,0.84,0.0
+386,The New York Times,How good is the camera on NASA's New Horizons spacecraft? It took a picture of a space rock less than 20 miles wide… https://t.co/TTltf0hPTS,Thu Aug 30 06:45:04 +0000 2018,0.4404,0.121,0.879,0.0
+387,The New York Times,"For years, Venus-Serena matches have been one of the most tantalizing fixtures in sports https://t.co/BXMovYZKh4",Thu Aug 30 06:30:10 +0000 2018,0.0,0.0,1.0,0.0
+388,The New York Times,"Lindsay Kemp, a British dancer and mime who taught David Bowie and Kate Bush how to move, has died at age 80 https://t.co/0dv9a4I7Li",Thu Aug 30 06:15:05 +0000 2018,-0.5574,0.0,0.854,0.146
+389,The New York Times,Fallout from the trade war between the U.S. and China has prompted Michael Bloomberg to relocate a conference of gl… https://t.co/j68WYFjZSL,Thu Aug 30 06:00:14 +0000 2018,-0.5994,0.0,0.83,0.17
+390,The New York Times,"His name is Larry, and he is one of “Australia’s Big Things,” the very literal name for oversize objects sprinkled… https://t.co/IiUNoabivS",Thu Aug 30 05:45:07 +0000 2018,0.0,0.0,1.0,0.0
+391,The New York Times,"Gov. Andrew M. Cuomo said that, if re-elected, he would finish a full third term as New York’s governor — or die tr… https://t.co/UQaraUJqIh",Thu Aug 30 05:30:02 +0000 2018,-0.5994,0.0,0.843,0.157
+392,The New York Times,"It was the next line on the posters, in smaller type, that alarmed medical professionals https://t.co/dBIPJdNppy",Thu Aug 30 05:15:07 +0000 2018,-0.34,0.0,0.862,0.138
+393,The New York Times,"RT @nytimesbusiness: For the film critic A.O. Scott, tech has changed just a few things in the movie-reviewing business. But he still goes…",Thu Aug 30 05:02:04 +0000 2018,-0.2732,0.0,0.909,0.091
+394,The New York Times,"In a tweet replying to Trump, CNN wrote: “Make no mistake, Mr. President, CNN does not lie. We report the news. And… https://t.co/1XcIeLd2Kb",Thu Aug 30 04:47:03 +0000 2018,-0.5574,0.0,0.813,0.187
+395,The New York Times,Andrew Cuomo has seemingly sought to make the New York governor race less about Cynthia Nixon and more about Presid… https://t.co/ks837nMpf3,Thu Aug 30 04:39:03 +0000 2018,0.0,0.0,1.0,0.0
+396,The New York Times,The Australian government said it would not grant a visa to Chelsea Manning because she failed a character test req… https://t.co/3FZ8TwfjkT,Thu Aug 30 04:32:07 +0000 2018,-0.6608,0.0,0.759,0.241
+397,The New York Times,"RT @NYTNational: ⚡️ “""An American Hero"": Arizonans Flock to Phoenix to Mourn John McCain”
+
+https://t.co/ATg1igEbjD",Thu Aug 30 04:17:00 +0000 2018,-0.4215,0.0,0.833,0.167
+398,The New York Times,"The Red Delicious apple is on track to be ousted this year by a sweet, juicy, young upstart: the Gala https://t.co/7MYmsTvn1F",Thu Aug 30 04:03:37 +0000 2018,0.7717,0.271,0.729,0.0
+399,The New York Times,"Review: Ariana Grande won’t let sorrow take over her pop-star narrative. On ""Sweetener,"" she has constructed a pers… https://t.co/lBXHOS2hNB",Thu Aug 30 03:47:03 +0000 2018,-0.5267,0.0,0.833,0.167
+400,BBC News (World),RT @BBCBreaking: Charity worker Nazanin Zaghari-Ratcliffe taken to prison doctors in Iran after suffering panic attacks https://t.co/9mjFso…,Wed Aug 29 10:18:17 +0000 2018,-0.8689,0.102,0.438,0.46
+401,BBC News (World),More on Vladimir Putin's pension announcement: https://t.co/HD21568zT3 https://t.co/wIPIrjxu6a,Wed Aug 29 09:55:58 +0000 2018,0.0,0.0,1.0,0.0
+402,BBC News (World),"RT @BBCAfrica: Grace is a single mum and nightclub dancer who dreams of being a star. She's looking for a rich ""sponsor"" - AKA sugar daddy…",Wed Aug 29 09:50:39 +0000 2018,0.8442,0.324,0.676,0.0
+403,BBC News (World),"RT @BBCBreaking: After facing protests and slumping approval ratings, Russian President Vladimir Putin softens reforms to pensions https://…",Wed Aug 29 09:33:52 +0000 2018,0.296,0.148,0.762,0.09
+404,BBC News (World),"""I am not perfect. I make mistakes"" - Puerto Rico's Governor Ricardo Rossello on why it took so long to revise offi… https://t.co/DOQx1LaG7T",Wed Aug 29 09:33:47 +0000 2018,-0.2235,0.088,0.788,0.124
+405,BBC News (World),Headless corpse found in fish tank at home of missing man https://t.co/GEdwXepOBp,Wed Aug 29 08:18:13 +0000 2018,-0.7096,0.0,0.629,0.371
+406,BBC News (World),Trump warns of 'left-wing violence' if Democrats win mid-term elections https://t.co/nSNs3W5XGt,Wed Aug 29 07:58:57 +0000 2018,-0.1779,0.22,0.462,0.318
+407,BBC News (World),Julia Banks: Exiting Australia MP decries 'bullying' of women https://t.co/W2dpQZa5Aj,Wed Aug 29 06:41:22 +0000 2018,0.0,0.0,1.0,0.0
+408,BBC News (World),India activist arrests: Is this a political witch hunt? https://t.co/5yTs1lZObm,Wed Aug 29 05:58:34 +0000 2018,-0.6597,0.0,0.565,0.435
+409,BBC News (World),Myanmar rejects UN accusation of 'genocide' against Rohingya https://t.co/iJAiBJwKQj,Wed Aug 29 04:50:33 +0000 2018,-0.6369,0.0,0.574,0.426
+410,BBC News (World),Venezuela crisis: Brazil to send army to safeguard border https://t.co/SsjDbA6CWZ,Wed Aug 29 04:28:13 +0000 2018,-0.3612,0.177,0.544,0.279
+411,BBC News (World),Hong Kong woman marries stranger after being 'tricked' by work https://t.co/c7izeq4B3H,Wed Aug 29 02:52:40 +0000 2018,0.0,0.0,1.0,0.0
+412,BBC News (World),Chemnitz protests: Far-right on march in east Germany https://t.co/pxoNnD0jo1,Tue Aug 28 23:32:51 +0000 2018,-0.2263,0.0,0.808,0.192
+413,BBC News (World),"Puerto Rico increases Hurricane Maria death toll to 2,975 https://t.co/mwKJ0Jg1hP",Tue Aug 28 22:24:35 +0000 2018,-0.5994,0.0,0.698,0.302
+414,BBC News (World),Didi blames 'ignorance and pride' for carpool murder https://t.co/3WXOvFQz7E,Tue Aug 28 21:35:18 +0000 2018,-0.8176,0.139,0.289,0.572
+415,BBC News (World),Canada police arrest teen suspected in German tourist shooting https://t.co/cmalU450UG,Tue Aug 28 21:12:44 +0000 2018,-0.5106,0.0,0.65,0.35
+416,BBC News (World),Scallop war: French and British boats clash in Channel https://t.co/rSmYf8wafE,Tue Aug 28 21:09:54 +0000 2018,-0.5994,0.0,0.698,0.302
+417,BBC News (World),Morocco: Arrests made in Khadija rape and torture case https://t.co/Kq3RaEGeRk,Tue Aug 28 21:00:58 +0000 2018,-0.91,0.0,0.378,0.622
+418,BBC News (World),Nafta: Clock is ticking for Canada in US trade negotiations https://t.co/hIeWqEAOPY,Tue Aug 28 20:20:41 +0000 2018,0.0,0.0,1.0,0.0
+419,BBC News (World),Protests as police woman who shot man teaches class on shootings https://t.co/WIAl9SXvUK,Tue Aug 28 20:09:31 +0000 2018,-0.2263,0.0,0.853,0.147
+420,CBS News,Shalane Flanagan on elevating other athletes through inspiration and diet https://t.co/jDyh7gVveP https://t.co/0rXjRP4ujX,Thu Aug 30 05:03:03 +0000 2018,0.5267,0.236,0.764,0.0
+421,CBS News,Astronaut Robb Kulin quits NASA training – a first in 50 years https://t.co/vNza94DLbY https://t.co/ADxnux1ord,Thu Aug 30 04:48:04 +0000 2018,0.0,0.0,1.0,0.0
+422,CBS News,"Drama on high seas as France-U.K. ""Scallop Wars"" escalate https://t.co/NAPAM4W8QG https://t.co/P3pbq8wiG0",Thu Aug 30 04:43:41 +0000 2018,-0.5574,0.0,0.735,0.265
+423,CBS News,McCain's children visit mourners waiting in line for public viewing https://t.co/3IjPBiXgN8 https://t.co/Gz5sWkTxMS,Thu Aug 30 04:32:05 +0000 2018,-0.4215,0.0,0.797,0.203
+424,CBS News,"Student allegedly rips MAGA hat off classmate's head, slaps teacher, facing battery charges https://t.co/nKovGBmlCU https://t.co/9bvqGiIRiu",Thu Aug 30 04:18:03 +0000 2018,-0.2732,0.0,0.87,0.13
+425,CBS News,Jerry Falwell Jr. defends Trump over report he took credit for repealing law still on the books… https://t.co/eQzyVGsqvV,Thu Aug 30 04:03:03 +0000 2018,0.3818,0.133,0.867,0.0
+426,CBS News,Woman seen in video ringing doorbell in restraints is safe https://t.co/cF2Xeah2z0 https://t.co/PzecwSn3dn,Thu Aug 30 03:48:04 +0000 2018,0.4404,0.209,0.791,0.0
+427,CBS News,"Woman seen in video ringing doorbell in restraints is safe, police say https://t.co/BhAqoULKgv https://t.co/840WxAEWJC",Thu Aug 30 03:39:47 +0000 2018,0.4404,0.182,0.818,0.0
+428,CBS News,"At least 1 killed in salmonella outbreak linked to kosher chicken, CDC says https://t.co/LOZoESeVMQ https://t.co/raz8yBTXMm",Thu Aug 30 03:30:21 +0000 2018,-0.6705,0.0,0.743,0.257
+429,CBS News,White ex-Texas cop sentenced to 15 years in prison for killing unarmed black teen https://t.co/Z4o0NKyYmy https://t.co/bxoAsnScE4,Thu Aug 30 03:10:06 +0000 2018,-0.8316,0.0,0.596,0.404
+430,CBS News,"Lindsey Graham: White House will be ""investigated to death"" if Democrats win the House https://t.co/AcFTpNl5Fe https://t.co/jde9NED12c",Thu Aug 30 03:03:04 +0000 2018,-0.0258,0.175,0.645,0.18
+431,CBS News,A boy wanted to raise money for a family friend battling childhood cancer--so he and his mom visited Home Depot for… https://t.co/TadJQ2u6sv,Thu Aug 30 02:46:32 +0000 2018,0.2732,0.137,0.773,0.09
+432,CBS News,Blood pressure drug recalled over potentially life-threatening label mix-up https://t.co/5AwhttEzaZ https://t.co/PUQeY2H2Od,Thu Aug 30 02:20:01 +0000 2018,-0.296,0.0,0.82,0.18
+433,CBS News,"The bumpy ride continues for Tesla, as CEO Elon Musk's comment on Twitter is now a labor issue… https://t.co/OdEgfeECak",Thu Aug 30 01:59:39 +0000 2018,0.0,0.0,1.0,0.0
+434,CBS News,"There is ""no reason"" to spend money on the U.S.-South Korea joint military exercises, the White House says in a sta… https://t.co/YtpE3YYnHQ",Thu Aug 30 01:39:40 +0000 2018,-0.296,0.0,0.901,0.099
+435,CBS News,"Prince Harry and the Duchess Meghan saw a charity show of ""Hamilton"" in London--and the Prince even sang part of a… https://t.co/P4Jjf3PSYI",Thu Aug 30 01:19:55 +0000 2018,0.4215,0.123,0.877,0.0
+436,CBS News,"All Detroit public schools shut off drinking water due to high levels of lead, copper in 16 of them, and officials… https://t.co/fFO5r6gpiB",Thu Aug 30 01:09:51 +0000 2018,0.0,0.0,1.0,0.0
+437,CBS News,"“We need a shelter system and a mental health shelter system that works"": Gov. Cuomo responds to the question of wh… https://t.co/e6IpPPLKKm",Thu Aug 30 00:48:41 +0000 2018,0.0,0.0,1.0,0.0
+438,CBS News,"Cynthia Nixon calls the legalization of marijuana ""a racial justice issue,” saying, “People across all ethnic and r… https://t.co/UguK9zdq0n",Thu Aug 30 00:31:37 +0000 2018,0.5267,0.159,0.841,0.0
+439,CBS News,"Gov. Cuomo: Can you please stop interrupting? Can you please do that?
+
+Cynthia Nixon: If you stop lying, I will sto… https://t.co/kL5b6LgvIv",Thu Aug 30 00:17:50 +0000 2018,-0.6966,0.154,0.501,0.346
+440,CNN,A 20-year-old Syrian man has been badly beaten in an attack in Germany as the country braced for more anti-migrant… https://t.co/mbrmLrFgoS,Thu Aug 30 08:48:34 +0000 2018,-0.8402,0.0,0.654,0.346
+441,CNN,Jehovah's Witnesses are a tiny minority in South Korea. But they make up the majority of the thousands who have bee… https://t.co/eHstmSK4BK,Thu Aug 30 08:37:42 +0000 2018,0.0,0.0,1.0,0.0
+442,CNN,"How Puerto Rico's death toll climbed from 64 to 2,975 in Hurricane Maria https://t.co/M9z3cJHeO5 https://t.co/BBzAS2aD5I",Thu Aug 30 08:01:06 +0000 2018,-0.5994,0.0,0.782,0.218
+443,CNN,"Uber driver stood his ground and killed man who threatened to shoot him, sheriff says https://t.co/zgdheFMiDx",Thu Aug 30 07:56:05 +0000 2018,-0.872,0.0,0.568,0.432
+444,CNN,"Sessions and McGahn each stood up to Trump. Now, McGahn heads for the exits https://t.co/HD2YemTo7p https://t.co/kpDSrqeqFr",Thu Aug 30 07:36:00 +0000 2018,0.0,0.0,1.0,0.0
+445,CNN,"With a small generator, basic soldering equipment, small pliers, and a toothbrush, Anowar takes apart cell phones o… https://t.co/QsnfLA3kdP",Thu Aug 30 07:31:04 +0000 2018,0.0,0.0,1.0,0.0
+446,CNN,"Nearly a quarter of 14-year-old girls in the UK have self-harmed, with many facing overwhelming pressures over look… https://t.co/VzJe96ARhF",Thu Aug 30 07:30:20 +0000 2018,-0.3182,0.0,0.881,0.119
+447,CNN,Cities are starting to give scooter companies such as Bird and Lime a second chance https://t.co/X2PZDaQNdk https://t.co/5xD0WaXT4S,Thu Aug 30 07:01:05 +0000 2018,0.25,0.118,0.882,0.0
+448,CNN,How John McCain's faith sustained him and allowed him to forgive himself https://t.co/XBEsVFv8zV https://t.co/mrPv1yh1Eq,Thu Aug 30 06:51:05 +0000 2018,0.5994,0.29,0.71,0.0
+449,CNN,Vodafone bets on $8 billion merger to boost Australia business https://t.co/ncbgK8hvMZ https://t.co/P2cx1GakTu,Thu Aug 30 06:42:08 +0000 2018,0.4019,0.197,0.803,0.0
+450,CNN,Researchers from four American universities are seeking people who will eat avocados every single day for six month… https://t.co/wEGs4dehO1,Thu Aug 30 06:31:08 +0000 2018,0.0,0.0,1.0,0.0
+451,CNN,This man could be Florida's first black governor https://t.co/lNjaxnsRmM https://t.co/JTSc8D6nLL,Thu Aug 30 06:16:00 +0000 2018,0.0,0.0,1.0,0.0
+452,CNN,More than 300 endangered sea turtles were found dead near the southern coast of Mexico https://t.co/WwnkS5BBwf https://t.co/wSt2FlVEEj,Thu Aug 30 06:01:00 +0000 2018,-0.6486,0.0,0.788,0.212
+453,CNN,He's responsible for discovering nearly a quarter of the world's corals. Now this scientist says the struggling ree… https://t.co/bh8sp4qhfW,Thu Aug 30 05:46:00 +0000 2018,-0.128,0.109,0.758,0.133
+454,CNN,"Nearly a quarter of 14-year-old girls in the UK have self-harmed, with many facing overwhelming pressures over look… https://t.co/0MBqkgU8VA",Thu Aug 30 05:31:06 +0000 2018,-0.3182,0.0,0.881,0.119
+455,CNN,Researchers used a manned submersible to bring back the first images of a deep-sea coral reef off the coast of Sout… https://t.co/uKv3uu51Hs,Thu Aug 30 05:16:00 +0000 2018,0.0,0.0,1.0,0.0
+456,CNN,"A Baltimore police detective whose department had initially said was fatally shot in a struggle with his killer, ac… https://t.co/PIajkD2FhQ",Thu Aug 30 05:01:04 +0000 2018,-0.8957,0.0,0.581,0.419
+457,CNN,"More than 40,000 bees swarmed this Times Square hot dog stand looking for a new home to escape the sweltering heat… https://t.co/3IXl9JYEpp",Thu Aug 30 04:46:00 +0000 2018,0.1779,0.078,0.922,0.0
+458,CNN,"1 in 50 people finds love on an airplane, a study claims https://t.co/BZ9AANBsnt https://t.co/Z0pfiaqY0Q",Thu Aug 30 04:31:05 +0000 2018,0.6369,0.276,0.724,0.0
+459,CNN,Here's the moment a suspected meteor streaked across the Australian sky https://t.co/V0IRXbeZgB https://t.co/71FOHxtKDK,Thu Aug 30 04:16:00 +0000 2018,-0.2263,0.0,0.853,0.147
+460,Fox News,OPINION: @judgenap: John McCain and me https://t.co/S5yQ4p8pXy,Thu Aug 30 10:35:00 +0000 2018,0.0,0.0,1.0,0.0
+461,Fox News,Paying respects to John McCain at Arizona State Capitol @FoxFriendsFirst https://t.co/nAPLsXfkjS https://t.co/4u3XgsE6Fg,Thu Aug 30 10:30:00 +0000 2018,0.3182,0.173,0.827,0.0
+462,Fox News,.@POTUS optimistic about trade agreement with Canada @FoxFriendsFirst https://t.co/oJcRAZvZWV https://t.co/Ug8snA4I5N,Thu Aug 30 10:20:00 +0000 2018,0.6705,0.407,0.593,0.0
+463,Fox News,.@CarleyShimkus is live with the ‘Fox News Update’ on Facebook Watch: https://t.co/hNrB8xzepH https://t.co/ZUBjhMk2zH,Thu Aug 30 10:10:10 +0000 2018,0.0,0.0,1.0,0.0
+464,Fox News,A 94-year-old @USNavy veteran heads to a California middle school every morning to greet students with uplifting wo… https://t.co/o2uaYiS6ny,Thu Aug 30 10:00:00 +0000 2018,0.3182,0.126,0.874,0.0
+465,Fox News,'Top Gun' sequel release pushed back one year: report https://t.co/rhHwcoi8X8,Thu Aug 30 09:45:00 +0000 2018,-0.1531,0.148,0.656,0.197
+466,Fox News,'Infuriated' New York Knicks fan sells his allegiance for thousands. https://t.co/p8C4vCSggS,Thu Aug 30 09:30:00 +0000 2018,0.3182,0.187,0.813,0.0
+467,Fox News,Profane language at one beach city could lead to a $500 fine or even jail. https://t.co/rdpsNKpX1B,Thu Aug 30 09:15:00 +0000 2018,0.2023,0.114,0.886,0.0
+468,Fox News,Google launches new search tool to help veterans get civilian jobs. https://t.co/p23bi9qj4O,Thu Aug 30 09:00:01 +0000 2018,0.4019,0.197,0.803,0.0
+469,Fox News,California Senate votes to raise age for buying long guns to 21. https://t.co/a9og6vL34z,Thu Aug 30 08:50:00 +0000 2018,0.0,0.0,1.0,0.0
+470,Fox News,"Ohio teen who went missing after witnessing dad's murder found alive, police say. https://t.co/jYnPfyIAc5",Thu Aug 30 08:35:00 +0000 2018,-0.6486,0.127,0.537,0.337
+471,Fox News,Firefighters down under rescued a bunch of ducklings that got stuck in a drain. @dfes_wa said the panicked mother d… https://t.co/ijAFVJQlDh,Thu Aug 30 08:19:00 +0000 2018,-0.296,0.118,0.672,0.21
+472,Fox News,California weight-loss study to pay participants to eat avocados. https://t.co/01ge6fJLYA,Thu Aug 30 08:10:00 +0000 2018,-0.1027,0.0,0.865,0.135
+473,Fox News,John McCain's funeral events: Everything you need to know https://t.co/XYnlLN7MEl,Thu Aug 30 08:00:01 +0000 2018,-0.3612,0.0,0.783,0.217
+474,Fox News,"North Carolina woman convicted of using acid, alligators in attempt to hide body of husband's ex-girlfriend. https://t.co/zzaCnaedzu",Thu Aug 30 07:45:00 +0000 2018,-0.1779,0.0,0.904,0.096
+475,Fox News,Employees at Memphis Waffle House filmed brawling over dirty dishes. https://t.co/bvsD6eZ2A8,Thu Aug 30 07:29:00 +0000 2018,-0.4404,0.0,0.775,0.225
+476,Fox News,3 ‘extremist Muslim’ New Mexico compound suspects released after judge drops all charges. https://t.co/Cz1jZW5Qrd,Thu Aug 30 07:00:00 +0000 2018,-0.5423,0.0,0.71,0.29
+477,Fox News,Wyoming Highway Patrol officials seize more than $7M worth of marijuana during traffic stop. https://t.co/mn8rFNjPMh,Thu Aug 30 06:45:00 +0000 2018,-0.0094,0.125,0.749,0.127
+478,Fox News,"Pennsylvania woman killed in car crash after boyfriend 'cut' brake lines looking for pipe to 'smoke crack,' police… https://t.co/VqHFRe6fY9",Thu Aug 30 06:35:00 +0000 2018,-0.802,0.0,0.702,0.298
+479,Fox News,Cop acquitted in unarmed man's death is teaching officers how to cope with similar incidents. https://t.co/PM85nmqLQm,Thu Aug 30 06:12:00 +0000 2018,-0.4404,0.101,0.704,0.196
+480,The New York Times,"In the day after he won the Florida primary for governor, the Democratic nominee Andrew Gillum has raised more than… https://t.co/anUIO57B4z",Thu Aug 30 03:32:00 +0000 2018,0.5719,0.156,0.844,0.0
+481,The New York Times,RT @NYTmag: THIS WEEK'S COVER: Riz Ahmed does not want to do away with categories; he wants them to be big enough to include reality. He wa…,Thu Aug 30 03:16:02 +0000 2018,-0.0572,0.0,0.955,0.045
+482,The New York Times,The murders of 2 women using a ride-share app in China are a wake-up call for an industry prizing growth over users… https://t.co/67JL27Mp3L,Thu Aug 30 03:02:02 +0000 2018,-0.34,0.106,0.732,0.163
+483,The New York Times,RT @shearm: He obsessed over the music. He choreographed the movement of his coffin. And he sent an unmistakable rebuke to President Trump.…,Thu Aug 30 02:52:01 +0000 2018,-0.1779,0.0,0.928,0.072
+484,The New York Times,"Trump and his Republican allies have made crime, violence, gangs and societal unrest a centerpiece of their attacks… https://t.co/MuoLuTRGTM",Thu Aug 30 02:47:02 +0000 2018,-0.8225,0.0,0.678,0.322
+485,The New York Times,"""I may be just a muggle...but as a reader I know magic when I feel it."" On Harry Potter's 20th anniversary, here's… https://t.co/NoA4hQUWro",Thu Aug 30 02:32:01 +0000 2018,0.0,0.0,1.0,0.0
+486,The New York Times,"RT @NYTnickc: Was sent to Hoboken today to report on the spate of 17 water main breaks in 2 months. 
+
+While interviewing @RaviBhalla, an ai…",Thu Aug 30 02:17:05 +0000 2018,0.0,0.0,1.0,0.0
+487,The New York Times,The Trump administration is reviewing a major Obama-era clean air regulation on the emission of mercury — a polluta… https://t.co/lfcCHGY802,Thu Aug 30 02:02:05 +0000 2018,0.4019,0.144,0.856,0.0
+488,The New York Times,"Intimate, loud, and rich in amenities, the newly renovated Louis Armstrong Stadium is a main draw at the U.S. Open. https://t.co/zVLjTKE27r",Thu Aug 30 01:47:03 +0000 2018,0.5574,0.159,0.841,0.0
+489,The New York Times,"RT @heathertal: ""If this coldest of cases is to be cracked, it may well be due to the work of citizen sleuths like me,"" Michelle McNamara p…",Thu Aug 30 01:36:03 +0000 2018,0.5574,0.155,0.845,0.0
+490,The New York Times,Rain Dove said that they turned their texts with Asia Argento over to the police because they believed that Argento… https://t.co/KNwbwDu1Xp,Thu Aug 30 01:23:01 +0000 2018,0.0,0.0,1.0,0.0
+491,The New York Times,"RT @jmartNYT: NEW: Gillum says DeSantis using ""bullhorns"" not dog-whistles, Steyer says FL is ""most significant state"" of the election and…",Thu Aug 30 01:12:05 +0000 2018,0.2716,0.095,0.905,0.0
+492,The New York Times,Evening Briefing: Here's what you need to know at the end of the day https://t.co/4zlbqAuL8V,Thu Aug 30 01:02:07 +0000 2018,0.0,0.0,1.0,0.0
+493,The New York Times,"He gave a stranded couple his last $20. They used his story to raise $400,000 through GoFundMe. He claims he never… https://t.co/5JXDm3MtAV",Thu Aug 30 00:47:03 +0000 2018,0.0,0.0,1.0,0.0
+494,The New York Times,"RT @nytopinion: .@rgay on Louis C.K. and justice: ""We spend so little energy thinking about justice for victims and so much energy thinking…",Thu Aug 30 00:36:03 +0000 2018,0.8258,0.351,0.576,0.074
+495,The New York Times,Another industry disrupted by young upstarts: the long reign of the Red Delicious apple is coming to an end https://t.co/pSdrDyopx0,Thu Aug 30 00:24:00 +0000 2018,0.5719,0.163,0.837,0.0
+496,The New York Times,"At Ohio State, where football is “basically a religion,” Urban Meyer’s suspension has led to hard questions on the… https://t.co/UaE2Vh9cFp",Thu Aug 30 00:12:05 +0000 2018,-0.1027,0.0,0.928,0.072
+497,The New York Times,"RT @NYTMetro: For much of their one and only debate, Gov. Andrew Cuomo and Cynthia Nixon jabbed and counter-punched, talking over each othe…",Thu Aug 30 00:01:21 +0000 2018,0.0,0.0,1.0,0.0
+498,The New York Times,A program meant to help the poor has come to include hospitals that don’t need the extra help and are not using its… https://t.co/s6IY7M5jL6,Wed Aug 29 23:47:05 +0000 2018,0.3182,0.189,0.702,0.109
+499,The New York Times,A serial-killer task force has been set up in Washington State after a dozen cats have been found mutilated since F… https://t.co/hijqcoypq8,Wed Aug 29 23:32:03 +0000 2018,0.0,0.0,1.0,0.0
